@@ -1,0 +1,17 @@
+{
+  "path": "neuml/pubmedbert-base-embeddings",
+  "content": true,
+  "dimensions": 768,
+  "backend": "faiss",
+  "offset": 9050,
+  "build": {
+    "create": "2025-10-01T14:53:17Z",
+    "python": "3.12.11",
+    "settings": {
+      "components": "IVF232,Flat"
+    },
+    "system": "Linux (x86_64)",
+    "txtai": "9.0.1"
+  },
+  "update": "2025-10-01T14:53:17Z"
+}

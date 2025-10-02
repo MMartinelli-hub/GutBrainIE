@@ -1,0 +1,1118 @@
+pmid|annotator|start_idx|end_idx|location|text_span|label|uri
+36532064|expert_7|26|35|title|BrainBiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota
+36532064|expert_7|57|83|title|CNS autoimmune inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+36532064|expert_7|82|102|abstract|neurological diseases|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases
+36532064|expert_7|207|222|abstract|CNS autoimmunity|DDF|http://purl.obolibrary.org/obo/NCIT_C2889
+36532064|expert_7|281|294|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+36532064|expert_7|299|306|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+36532064|expert_7|313|333|abstract|neurological diseases|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases
+36532064|expert_7|343|361|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+36532064|expert_7|364|380|abstract|Alzheimer disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+36532064|expert_7|386|403|abstract|multiple sclerosis|DDF|http://purl.obolibrary.org/obo/NCIT_C3243
+36532064|expert_7|481|496|abstract|brain microbiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota
+36532064|expert_7|503|512|abstract|BrainBiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota
+36532064|expert_7|599|609|abstract|human brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+36532064|expert_7|663|680|abstract|bacterial proteins|chemical|http://purl.obolibrary.org/obo/NCIT_C16319
+36532064|expert_7|912|925|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+36532064|expert_7|967|976|abstract|BrainBiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota
+36532064|expert_7|985|998|abstract|brain diseases|DDF|http://purl.obolibrary.org/obo/OMIT_0003283
+36532064|expert_7|1039|1058|abstract|chronic inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C174450
+36532064|expert_7|1077|1090|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37212075|expert_5|34|70|title|Clinical Parkinson's Disease Subtypes|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37212075|expert_5|0|18|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37212075|expert_5|25|64|abstract|heterogeneous neurodegenerative disorder|DDF|http://purl.obolibrary.org/obo/NCIT_C39737
+37212075|expert_5|151|164|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37212075|expert_5|238|250|abstract|secretory IgA|gene|https://uts.nlm.nih.gov/uts/umls/concept/C0020838
+37212075|expert_5|253|256|abstract|SIgA|gene|https://w3id.org/XXXX/ontology/gutbrain/resource/gene/SigaGene
+37212075|expert_5|291|304|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37212075|expert_5|331|339|abstract|IgA-Biome|microbiome|http://purl.obolibrary.org/obo/NCIT_C93019
+37212075|expert_5|344|354|abstract|individuals|human|https://uts.nlm.nih.gov/uts/umls/concept/C0237401
+37212075|expert_5|383|463|abstract|akinetic rigid (AR) or tremor dominant (TD) Parkinson's disease clinical subtypes|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37212075|expert_5|543|556|abstract|Flow cytometry|biomedical technique|http://purl.obolibrary.org/obo/NCIT_C16585
+37212075|expert_5|579|611|abstract|IgA-coated and -uncoated bacteria|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+37212075|expert_5|646|663|abstract|AR and TD patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+37212075|expert_5|677|743|abstract|amplification and sequencing of the V4 region of the 16 S rDNA gene|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRdnsAnalysis
+37212075|expert_5|977|978|abstract|TD|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+37212075|expert_5|1003|1004|abstract|AR|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1446219
+37212075|expert_5|1139|1158|abstract|AR clinical subclass|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1446219
+37212075|expert_5|1209|1219|abstract|TD subclass|DDF|http://purl.obolibrary.org/obo/NCIT_C38038
+37212075|expert_5|1372|1385|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+37212075|expert_5|1579|1580|abstract|AR|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1446219
+37212075|expert_5|1643|1672|abstract|microbiome analysis approaches|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/MicrobiomeAnalysis
+37577447|expert_5|24|46|title|oral and gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|51|63|title|male patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C1706180
+37577447|expert_5|70|87|title|alcohol dependence|DDF|http://purl.obolibrary.org/obo/NCIT_C93040
+37577447|expert_5|25|47|abstract|oral and gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|52|69|abstract|alcohol dependence|DDF|http://purl.obolibrary.org/obo/NCIT_C93040
+37577447|expert_5|72|73|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|128|142|abstract|oral microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|151|171|abstract|intestinal microbiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+37577447|expert_5|233|255|abstract|oral and gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|260|261|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|282|296|abstract|oral microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|334|336|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+37577447|expert_5|423|429|abstract|persons|human|https://uts.nlm.nih.gov/uts/umls/concept/C0027361
+37577447|expert_5|436|437|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|443|458|abstract|healthy controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+37577447|expert_5|461|462|abstract|HC|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+37577447|expert_5|598|626|abstract|ectopic colonization bacteria|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+37577447|expert_5|648|662|abstract|oral microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|668|688|abstract|intestinal microbiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+37577447|expert_5|721|727|abstract|persons|human|https://uts.nlm.nih.gov/uts/umls/concept/C0027361
+37577447|expert_5|734|735|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|760|788|abstract|Principal coordinate analysis|statistical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0681930
+37577447|expert_5|827|849|abstract|oral and gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|854|860|abstract|persons|human|https://uts.nlm.nih.gov/uts/umls/concept/C0027361
+37577447|expert_5|867|868|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|883|884|abstract|HC|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+37577447|expert_5|950|956|abstract|persons|human|https://uts.nlm.nih.gov/uts/umls/concept/C0027361
+37577447|expert_5|963|964|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|995|996|abstract|HC|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+37577447|expert_5|1025|1039|abstract|oral microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|1081|1082|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|1125|1126|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37577447|expert_5|1330|1348|abstract|oral-gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37577447|expert_5|1353|1354|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+38203207|expert_5|114|127|title|Gut Microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+38203207|expert_5|0|29|abstract|Bacteria in the gut microbiome|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D001421
+38203207|expert_5|153|166|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+38203207|expert_5|245|254|abstract|bile acids|chemical|http://purl.obolibrary.org/obo/CHEBI_3098
+38203207|expert_5|257|279|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+38203207|expert_5|282|286|abstract|SCFAs|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+38203207|expert_5|290|298|abstract|glutamate|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C0220839
+38203207|expert_5|301|303|abstract|Glu|chemical|http://purl.obolibrary.org/obo/CHEBI_73493
+38203207|expert_5|307|325|abstract|γ-aminobutyric acid|chemical|http://purl.obolibrary.org/obo/CHEBI_229980
+38203207|expert_5|328|331|abstract|GABA|chemical|http://purl.obolibrary.org/obo/CHEBI_16865
+38203207|expert_5|335|342|abstract|dopamine|chemical|http://purl.obolibrary.org/obo/CHEBI_18243
+38203207|expert_5|345|346|abstract|DA|chemical|http://purl.obolibrary.org/obo/CHEBI_188286
+38203207|expert_5|350|363|abstract|norepinephrine|chemical|http://purl.obolibrary.org/obo/CHEBI_90022
+38203207|expert_5|366|367|abstract|NE|chemical|http://purl.obolibrary.org/obo/CHEBI_172425
+38203207|expert_5|371|379|abstract|serotonin|chemical|http://purl.obolibrary.org/obo/CHEBI_28790
+38203207|expert_5|382|385|abstract|5-HT|chemical|http://purl.obolibrary.org/obo/CHEBI_28790
+38203207|expert_5|393|401|abstract|histamine|chemical|http://purl.obolibrary.org/obo/CHEBI_18295
+38203207|expert_5|446|467|abstract|gastrointestinal tract|anatomical location|http://purl.obolibrary.org/obo/NCIT_C34082
+38203207|expert_5|470|472|abstract|GIT|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+38203207|expert_5|485|489|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+38203207|expert_5|518|528|abstract|vagus nerve|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0042276
+38203207|expert_5|531|532|abstract|VN|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0042276
+38203207|expert_5|666|672|abstract|neurons|chemical|http://purl.obolibrary.org/obo/NCIT_C12623
+38203207|expert_5|819|821|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+38203207|expert_5|870|895|abstract|neuropsychiatric disorders|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders
+38203207|expert_5|905|910|abstract|autism|DDF|http://purl.obolibrary.org/obo/NCIT_C97161
+38203207|expert_5|913|922|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+38203207|expert_5|929|941|abstract|schizophrenia|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+38203207|expert_5|1025|1038|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+38203207|expert_5|1165|1178|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+38203207|expert_5|1352|1367|abstract|mental disorders|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0004936
+38203207|expert_5|1473|1486|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+38203207|expert_5|1532|1552|abstract|changing gut bacteria|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D000458
+38203207|expert_5|1562|1587|abstract|neuropsychiatric disorders|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders
+31530799|expert_2|24|37|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31530799|expert_2|71|84|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31530799|expert_2|107|130|abstract|stress-related disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C35041
+31530799|expert_2|184|187|abstract|rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|267|280|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31530799|expert_2|346|354|abstract|male rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|443|456|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31530799|expert_2|462|484|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31530799|expert_2|522|533|abstract|control rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|536|558|abstract|non-LH (resilient) rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|565|585|abstract|LH (susceptible) rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|609|623|abstract|Lactobacillales|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D056546
+31530799|expert_2|676|691|abstract|susceptible rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|701|726|abstract|control and resilient rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|764|779|abstract|Lactobacillaceae|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_33958
+31530799|expert_2|788|803|abstract|susceptible rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|838|863|abstract|control and resilient rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|901|913|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+31530799|expert_2|916|938|abstract|Clostridium cluster III|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D047010
+31530799|expert_2|945|956|abstract|Anaerofustis|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C1500236
+31530799|expert_2|961|976|abstract|susceptible rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1012|1037|abstract|control and resilient rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1050|1060|abstract|acetic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_15366
+31530799|expert_2|1066|1079|abstract|propionic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_30768
+31530799|expert_2|1097|1112|abstract|susceptible rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1142|1167|abstract|control and resilient rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1193|1203|abstract|lactic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_42111
+31530799|expert_2|1212|1227|abstract|susceptible rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1255|1280|abstract|control and resilient rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+31530799|expert_2|1324|1334|abstract|lactic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_42111
+31530799|expert_2|1443|1456|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31530799|expert_2|1487|1499|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+31530799|expert_2|1559|1562|abstract|rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+38525261|expert_6|10|22|title|dietary fiber|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C68492
+38525261|expert_6|89|102|title|healthy adults|human|https://www.ncbi.nlm.nih.gov/mesh/D000328
+38525261|expert_6|4|17|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+38525261|expert_6|104|117|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+38525261|expert_6|128|148|abstract|microbial metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+38525261|expert_6|313|335|abstract|mental health disorders|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+38525261|expert_6|338|350|abstract|Dietary fiber|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C68492
+38525261|expert_6|572|585|abstract|neurochemicals|chemical|https://w3id.org/XXXX/ontology/gutbrain/resource/chemical/Neurochemicals
+38525261|expert_6|886|898|abstract|dietary fiber|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C68492
+38525261|expert_6|903|921|abstract|healthy individuals|human|https://uts.nlm.nih.gov/uts/umls/concept/C0237401
+38525261|expert_6|1165|1177|abstract|dietary fiber|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C68492
+38525261|expert_6|1341|1360|abstract|healthy adult humans|human|https://uts.nlm.nih.gov/uts/umls/concept/C0001792
+38525261|expert_6|1492|1504|abstract|dietary fiber|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C68492
+38525261|expert_6|1528|1541|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+38525261|expert_6|1731|1749|abstract|healthy individuals|human|https://uts.nlm.nih.gov/uts/umls/concept/C0237401
+36978911|expert_5|17|26|title|Flavonoids|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|32|52|title|Flavonoid Metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|74|100|title|Neurodegenerative Pathology|DDF|http://purl.obolibrary.org/obo/NCIT_C39737
+36978911|expert_5|105|134|title|Disorders of Cognitive Decline|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0234985
+36978911|expert_5|0|9|abstract|Flavonoids|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|409|442|abstract|pharmacologically active compounds|chemical|http://purl.obolibrary.org/obo/CHEBI_228264
+36978911|expert_5|766|779|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+36978911|expert_5|830|860|abstract|bioactive flavonoid metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|943|958|abstract|intact flavonoid|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|1043|1052|abstract|food items|food|http://purl.obolibrary.org/obo/NCIT_C62695
+36978911|expert_5|1120|1149|abstract|neutraceutical supplementation|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C1518478
+36978911|expert_5|1216|1241|abstract|bacterial symbiont species|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+36978911|expert_5|1277|1304|abstract|harmful pathogenic organisms|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C0450254
+36978911|expert_5|1433|1460|abstract|dietary flavonoid components|chemical|http://purl.obolibrary.org/obo/NCIT_C70554
+36978911|expert_5|1469|1471|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+36978911|expert_5|1483|1505|abstract|therapeutic metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+36978911|expert_5|1543|1553|abstract|vagus nerve|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0042276
+36978911|expert_5|1682|1703|abstract|neurological disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26835
+36978911|expert_5|1706|1711|abstract|autism|DDF|http://purl.obolibrary.org/obo/NCIT_C97161
+36978911|expert_5|1714|1729|abstract|bipolar disorder|DDF|http://purl.obolibrary.org/obo/NCIT_C34423
+36978911|expert_5|1732|1733|abstract|AD|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+36978911|expert_5|1736|1737|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+36978911|expert_5|1788|1797|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+36978911|expert_5|1803|1809|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+36978911|expert_5|1812|1834|abstract|impaired motor function|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4061321
+36978911|expert_5|1841|1867|abstract|long-term cognitive decline|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0234985
+36978911|expert_5|1870|1886|abstract|Native flavonoids|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|1942|1964|abstract|inflammation in tissues|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+36978911|expert_5|2029|2038|abstract|flavonoids|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|2120|2139|abstract|Dietary manipulation|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0947647
+36978911|expert_5|2145|2161|abstract|vagal stimulation|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C1293903
+36978911|expert_5|2222|2246|abstract|autism spectrum disorders|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+36978911|expert_5|2249|2258|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+36978911|expert_5|2265|2271|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+36978911|expert_5|2291|2301|abstract|vagal nerve|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12812
+36978911|expert_5|2419|2435|abstract|native flavonoids|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|2472|2493|abstract|neurological disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26835
+36978911|expert_5|2547|2588|abstract|microbiome-generated flavonoid metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|2597|2615|abstract|protocatechuic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_167537
+36978911|expert_5|2618|2627|abstract|urolithins|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C3827687
+36978911|expert_5|2630|2645|abstract|γ-valerolactones|chemical|http://purl.obolibrary.org/obo/CHEBI_48569
+36978911|expert_5|2715|2730|abstract|native flavonoid|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+36978911|expert_5|2973|2993|abstract|flavonoid metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_47916
+31610228|expert_5|26|33|title|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|40|70|title|chronic alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|86|99|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31610228|expert_5|0|24|abstract|Alcohol-related morbidity|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|53|66|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31610228|expert_5|72|91|abstract|immune dysregulation|DDF|http://purl.obolibrary.org/obo/NCIT_C176595
+31610228|expert_5|185|192|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|199|221|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|300|313|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31610228|expert_5|351|369|abstract|hospital inpatients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|389|419|abstract|chronic alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|450|465|abstract|control patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+31610228|expert_5|511|516|abstract|TGF-β1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1704256
+31610228|expert_5|519|523|abstract|TNF-α|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1448177
+31610228|expert_5|526|530|abstract|IL-10|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334098
+31610228|expert_5|533|536|abstract|IL-8|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1366571
+31610228|expert_5|539|542|abstract|IL-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334122
+31610228|expert_5|545|549|abstract|IFN-γ|gene|http://purl.obolibrary.org/obo/CHEBI_52999
+31610228|expert_5|552|556|abstract|MCP-1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1337092
+31610228|expert_5|559|564|abstract|IL-1RA|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1416409
+31610228|expert_5|567|571|abstract|IL-1β|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1708430
+31610228|expert_5|578|582|abstract|IL-17|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1825592
+31610228|expert_5|609|631|abstract|customized V-plex assay|biomedical technique|http://purl.obolibrary.org/obo/NCIT_C60819
+31610228|expert_5|705|718|abstract|Proteobacteria|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D020560
+31610228|expert_5|724|739|abstract|Faecalibacterium|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_216851
+31610228|expert_5|760|790|abstract|short-chain fatty acid butyrate|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31610228|expert_5|793|812|abstract|psychiatric symptoms|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0233401
+31610228|expert_5|903|910|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|917|939|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|946|948|abstract|men|human|https://www.ncbi.nlm.nih.gov/mesh/D008571
+31610228|expert_5|959|974|abstract|control patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+31610228|expert_5|981|983|abstract|men|human|https://www.ncbi.nlm.nih.gov/mesh/D008571
+31610228|expert_5|987|994|abstract|Patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|1001|1023|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|1046|1049|abstract|IL-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334122
+31610228|expert_5|1064|1068|abstract|IFN-γ|gene|http://purl.obolibrary.org/obo/CHEBI_52999
+31610228|expert_5|1087|1091|abstract|MCP-1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1337092
+31610228|expert_5|1126|1131|abstract|TGF-β1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1704256
+31610228|expert_5|1159|1174|abstract|control patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+31610228|expert_5|1217|1230|abstract|Proteobacteria|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D020560
+31610228|expert_5|1246|1250|abstract|TNF-α|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1448177
+31610228|expert_5|1290|1293|abstract|IL-8|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1366571
+31610228|expert_5|1343|1358|abstract|Faecalibacterium|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_216851
+31610228|expert_5|1418|1433|abstract|control patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+31610228|expert_5|1447|1454|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|1461|1483|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|1486|1493|abstract|Patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|1500|1522|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|1538|1557|abstract|psychiatric symptoms|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0233401
+31610228|expert_5|1689|1697|abstract|cytokines|chemical|http://purl.obolibrary.org/obo/NCIT_C20464
+31610228|expert_5|1786|1792|abstract|albumin|chemical|http://purl.obolibrary.org/obo/CHEBI_166964
+31610228|expert_5|1795|1802|abstract|Patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+31610228|expert_5|1809|1831|abstract|alcohol overconsumption|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+31610228|expert_5|1870|1909|abstract|increased systemic inflammatory activity|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+31610228|expert_5|1934|1959|abstract|pro-inflammatory cytokines|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C1708430
+31610228|expert_5|1962|1965|abstract|IL-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334122
+31610228|expert_5|1968|1972|abstract|IFN-γ|gene|http://purl.obolibrary.org/obo/CHEBI_52999
+31610228|expert_5|1979|1983|abstract|MCP-1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1337092
+31610228|expert_5|2006|2032|abstract|anti-inflammatory cytokines|chemical|http://purl.obolibrary.org/obo/NCIT_C20464
+31610228|expert_5|2035|2040|abstract|TGF-β1|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1704256
+31610228|expert_5|2102|2126|abstract|alcohol-related morbidity|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption
+34560239|expert_5|35|42|title|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|48|52|title|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+34560239|expert_5|57|93|title|MPTP-induced Parkinson's disease mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34560239|expert_5|98|111|title|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+34560239|expert_5|90|108|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+34560239|expert_5|111|112|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+34560239|expert_5|194|197|abstract|MPTP|chemical|http://purl.obolibrary.org/obo/CHEBI_233275
+34560239|expert_5|200|243|abstract|1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine|chemical|http://purl.obolibrary.org/obo/CHEBI_17963
+34560239|expert_5|285|292|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|298|302|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+34560239|expert_5|328|341|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34560239|expert_5|347|369|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34560239|expert_5|372|376|abstract|SCFAs|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34560239|expert_5|391|400|abstract|adult mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34560239|expert_5|403|406|abstract|MPTP|chemical|http://purl.obolibrary.org/obo/CHEBI_233275
+34560239|expert_5|432|451|abstract|dopamine transporter|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1420213
+34560239|expert_5|454|456|abstract|DAT|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1420213
+34560239|expert_5|463|482|abstract|tyrosine hydroxylase|gene|http://purl.obolibrary.org/obo/NCIT_C127894
+34560239|expert_5|485|486|abstract|TH|gene|http://purl.obolibrary.org/obo/NCIT_C127894
+34560239|expert_5|496|503|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|523|548|abstract|phosphorylated α-synuclein|gene|http://purl.obolibrary.org/obo/NCIT_C90101
+34560239|expert_5|551|557|abstract|p-α-Syn|gene|http://purl.obolibrary.org/obo/NCIT_C90101
+34560239|expert_5|567|574|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|580|584|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+34560239|expert_5|646|647|abstract|TH|gene|http://purl.obolibrary.org/obo/NCIT_C127894
+34560239|expert_5|656|663|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|687|693|abstract|p-α-Syn|gene|http://purl.obolibrary.org/obo/NCIT_C90101
+34560239|expert_5|702|706|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+34560239|expert_5|755|758|abstract|MPTP|chemical|http://purl.obolibrary.org/obo/CHEBI_233275
+34560239|expert_5|810|823|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34560239|expert_5|832|835|abstract|mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34560239|expert_5|881|899|abstract|genus Faecalicatena|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2005359
+34560239|expert_5|908|925|abstract|MPTP-treated group|animal|http://purl.obolibrary.org/obo/NCIT_C28143
+34560239|expert_5|964|976|abstract|control group|animal|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34560239|expert_5|1039|1057|abstract|genus Faecalicatena|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2005359
+34560239|expert_5|1081|1082|abstract|TH|gene|http://purl.obolibrary.org/obo/NCIT_C127894
+34560239|expert_5|1091|1098|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+34560239|expert_5|1111|1114|abstract|MPTP|chemical|http://purl.obolibrary.org/obo/CHEBI_233275
+34560239|expert_5|1144|1148|abstract|SCFAs|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34560239|expert_5|1248|1266|abstract|genus Faecalicatena|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2005359
+34560239|expert_5|1272|1285|abstract|propionic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_30768
+34560239|expert_5|1422|1429|abstract|striatum|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12450
+30900006|expert_2|273|296|abstract|gastrointestinal barrier|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C5828281
+30900006|expert_2|448|470|abstract|BALB/c and C57BL/6 mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30900006|expert_2|567|580|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+30900006|expert_2|585|619|abstract|broad-spectrum antibiotic treatment|drug|http://purl.obolibrary.org/obo/NCIT_C258
+30900006|expert_2|676|698|abstract|BALB/c and C57BL/6 mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30900006|expert_2|714|743|abstract|fecal 16S rRNA gene sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+30900006|expert_2|789|798|abstract|Prevotella|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D018720
+30900006|expert_2|801|809|abstract|Alistipes|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C1490417
+30900006|expert_2|812|822|abstract|Akkermansia|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_239934
+30900006|expert_2|829|840|abstract|Ruminococcus|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D045857
+30900006|expert_2|917|944|abstract|nCounter NanoString platform|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C5787151
+30900006|expert_2|949|963|abstract|BLASTn analysis|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/BlastnAnalysis
+30900006|expert_2|1166|1191|abstract|broad-spectrum antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+30900006|expert_2|1263|1286|abstract|gastrointestinal barrier|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C5828281
+30900006|expert_2|1336|1346|abstract|BALB/c mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30900006|expert_2|1385|1408|abstract|barrier regulating genes|gene|https://uts.nlm.nih.gov/uts/umls/concept/C0017362
+30900006|expert_2|1434|1448|abstract|Parabacteroides|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D001439
+30900006|expert_2|1454|1464|abstract|Bacteroides|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D001439
+30309367|expert_5|0|12|title|Visceral pain|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|15|28|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+30309367|expert_5|0|12|abstract|Visceral pain|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|99|109|abstract|indigestion|DDF|http://purl.obolibrary.org/obo/NCIT_C26756
+30309367|expert_5|136|146|abstract|renal colic|DDF|http://purl.obolibrary.org/obo/NCIT_C78593
+30309367|expert_5|163|175|abstract|visceral pain|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|190|200|abstract|spinal cord|anatomical location|http://purl.obolibrary.org/obo/NCIT_C33969
+30309367|expert_5|213|241|abstract|higher order brain structures|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+30309367|expert_5|290|315|abstract|gastrointestinal disorders|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0017178
+30309367|expert_5|334|347|abstract|abdominal pain|DDF|http://purl.obolibrary.org/obo/NCIT_C26682
+30309367|expert_5|396|420|abstract|visceral hypersensitivity|DDF|http://purl.obolibrary.org/obo/NCIT_C3114
+30309367|expert_5|426|444|abstract|nociception to pain|DDF|http://purl.obolibrary.org/obo/NCIT_C21075
+30309367|expert_5|503|515|abstract|visceral pain|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|588|601|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+30309367|expert_5|711|720|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+30309367|expert_5|726|735|abstract|prebiotics|dietary supplement|http://purl.obolibrary.org/obo/OMIT_0026689
+30309367|expert_5|753|793|abstract|hypersensitivity to visceral pain stimuli|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|800|813|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+30309367|expert_5|843|865|abstract|visceral pain sensation|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+30309367|expert_5|904|923|abstract|visceral nociception|DDF|http://purl.obolibrary.org/obo/NCIT_C21075
+30309367|expert_5|959|972|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+30309367|expert_5|980|989|abstract|prebiotics|dietary supplement|http://purl.obolibrary.org/obo/OMIT_0026689
+30309367|expert_5|995|1004|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+30309367|expert_5|1050|1072|abstract|visceral pain disorders|DDF|http://purl.obolibrary.org/obo/OMIT_0027553
+32041265|expert_7|32|52|title|Intestinal Microbiome|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+32041265|expert_7|117|130|title|Motor Symptoms|DDF|http://purl.obolibrary.org/obo/NCIT_C4876
+32041265|expert_7|135|153|title|Parkinson's Disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32041265|expert_7|18|31|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32041265|expert_7|92|107|abstract|chronic diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C165593
+32041265|expert_7|121|147|abstract|neurodegenerative disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C39737
+32041265|expert_7|157|175|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32041265|expert_7|178|179|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32041265|expert_7|206|207|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32041265|expert_7|226|228|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32041265|expert_7|313|333|abstract|intestinal microbiome|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+32041265|expert_7|375|389|abstract|alpha-synuclein|chemical|http://purl.obolibrary.org/obo/CHEBI_15781
+32041265|expert_7|429|431|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32041265|expert_7|488|501|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32041265|expert_7|509|519|abstract|PD patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients
+32041265|expert_7|528|543|abstract|healthy controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+32041265|expert_7|546|547|abstract|HC|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+32041265|expert_7|706|719|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32041265|expert_7|724|725|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32041265|expert_7|731|741|abstract|PD patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients
+32041265|expert_7|830|846|abstract|short fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+32041265|expert_7|873|880|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+32041265|expert_7|923|933|abstract|fecal enema|biomedical technique|http://purl.obolibrary.org/obo/NCBITaxon_1247158
+32041265|expert_7|1036|1037|abstract|HC|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+32041265|expert_7|1077|1108|abstract|PD associated microbiome changes|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+32041265|expert_7|1223|1233|abstract|fecal enema|biomedical technique|http://purl.obolibrary.org/obo/NCBITaxon_1247158
+32041265|expert_7|1391|1405|abstract|Ruminococcaceae|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C2584567
+32041265|expert_7|1446|1459|abstract|Clostridiaceae|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_31979
+32041265|expert_7|1497|1501|abstract|enema|biomedical technique|http://purl.obolibrary.org/obo/NCBITaxon_1247158
+32041265|expert_7|1612|1622|abstract|PD patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients
+26923630|expert_7|0|19|title|Cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+26923630|expert_7|24|55|title|antibiotic-induced gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+26923630|expert_7|76|84|abstract|dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+26923630|expert_7|110|123|abstract|Germ-free mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+26923630|expert_7|129|160|abstract|antibiotic-induced gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+26923630|expert_7|285|298|abstract|germ-free mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+26923630|expert_7|308|341|abstract|alterations in blood-brain barrier|DDF|http://purl.obolibrary.org/obo/NCIT_C13194
+26923630|expert_7|372|382|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+26923630|expert_7|408|412|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+26923630|expert_7|460|491|abstract|antibiotic-induced gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+26923630|expert_7|569|578|abstract|adult mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+26923630|expert_7|594|604|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+26923630|expert_7|669|673|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+26923630|expert_7|682|704|abstract|circulating metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+26923630|expert_7|726|753|abstract|neuronal signaling molecules|chemical|http://purl.obolibrary.org/obo/NCIT_C1929
+26923630|expert_7|767|777|abstract|brain areas|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+26923630|expert_7|845|855|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+26923630|expert_7|863|872|abstract|ampicillin|drug|http://purl.obolibrary.org/obo/CHEBI_28971
+26923630|expert_7|875|884|abstract|bacitracin|drug|http://purl.obolibrary.org/obo/CHEBI_28669
+26923630|expert_7|887|895|abstract|meropenem|drug|http://purl.obolibrary.org/obo/CHEBI_43968
+26923630|expert_7|898|905|abstract|neomycin|drug|http://purl.obolibrary.org/obo/CHEBI_7507
+26923630|expert_7|908|917|abstract|vancomycin|drug|https://uts.nlm.nih.gov/uts/umls/concept/C0042313
+26923630|expert_7|921|930|abstract|ampicillin|drug|http://purl.obolibrary.org/obo/CHEBI_28971
+26923630|expert_7|984|988|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+26923630|expert_7|991|1009|abstract|16S rDNA sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+26923630|expert_7|1021|1069|abstract|antibiotic-induced microbial community disruption|DDF|http://purl.obolibrary.org/obo/NCIT_C25486
+26923630|expert_7|1076|1087|abstract|metabolomics|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C1328813
+26923630|expert_7|1103|1115|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+26923630|expert_7|1137|1177|abstract|depletion of bacteria-derived metabolites|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion
+26923630|expert_7|1186|1190|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+26923630|expert_7|1196|1263|abstract|alterations of lipid species and converted microbe-derived molecules|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiotaPerturbation
+26923630|expert_7|1359|1381|abstract|antibiotic-treated mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+26923630|expert_7|1389|1405|abstract|cognitive deficit|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0338656
+26923630|expert_7|1478|1515|abstract|cognition-relevant signaling molecules|chemical|http://purl.obolibrary.org/obo/NCIT_C1929
+26923630|expert_7|1526|1558|abstract|brain-derived neurotrophic factor|chemical|http://purl.obolibrary.org/obo/NCIT_C20445
+26923630|expert_7|1561|1600|abstract|N-methyl-d-aspartate receptor subunit 2B|chemical|http://purl.obolibrary.org/obo/NCIT_C118457
+26923630|expert_7|1603|1623|abstract|serotonin transporter|chemical|http://purl.obolibrary.org/obo/CHEBI_28790
+26923630|expert_7|1629|1649|abstract|neuropeptide Y system|chemical|http://purl.obolibrary.org/obo/CHEBI_80201
+26923630|expert_7|1669|1691|abstract|circulating metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+26923630|expert_7|1701|1730|abstract|cerebral neuropeptide Y system|chemical|http://purl.obolibrary.org/obo/CHEBI_80201
+26923630|expert_7|1762|1781|abstract|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+26923630|expert_7|1787|1831|abstract|dysregulation of cerebral signaling molecules|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation
+26923630|expert_7|1840|1871|abstract|antibiotic-induced gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+25869281|expert_7|0|26|title|Lactobacillus fermentum NS9|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C86478
+25869281|expert_7|41|104|title|antibiotic induced physiological and psychological abnormalities|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+25869281|expert_7|109|112|title|rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+25869281|expert_7|0|13|abstract|Gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+25869281|expert_7|92|105|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+25869281|expert_7|123|145|abstract|broad range antibiotics|drug|http://purl.obolibrary.org/obo/CHEBI_49318
+25869281|expert_7|173|193|abstract|probiotic application|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+25869281|expert_7|239|248|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+25869281|expert_7|311|321|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+25869281|expert_7|353|375|abstract|ampicillin-treated rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+25869281|expert_7|407|440|abstract|Lactobacillus fermentum strain NS9|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C86478
+25869281|expert_7|446|463|abstract|elevated plus maze|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C5392082
+25869281|expert_7|469|485|abstract|Morris water maze|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C5197854
+25869281|expert_7|512|514|abstract|NS9|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C86478
+25869281|expert_7|546|559|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+25869281|expert_7|580|610|abstract|ampicillin-induced inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+25869281|expert_7|619|623|abstract|colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12382
+25869281|expert_7|644|695|abstract|mineralocorticoid and N-methyl-D-aspartate receptors|chemical|http://purl.obolibrary.org/obo/NCIT_C118457
+25869281|expert_7|723|733|abstract|hippocampus|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12444
+25869281|expert_7|742|769|abstract|ampillicin+NS9 treated group|animal|https://w3id.org/XXXX/ontology/gutbrain/resource/animal/TreatedGroup
+25869281|expert_7|808|829|abstract|anxiety-like behaviour|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+25869281|expert_7|850|878|abstract|ampicillin-induced impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+25869281|expert_7|929|931|abstract|NS9|dietary supplement|http://purl.obolibrary.org/obo/NCIT_C86478
+25869281|expert_7|984|1028|abstract|physiological and psychological abnormalities|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+25869281|expert_7|1041|1050|abstract|ampicillin|drug|http://purl.obolibrary.org/obo/CHEBI_28971
+25869281|expert_7|1105|1109|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+25869281|expert_7|1159|1168|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+25869281|expert_7|1198|1208|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+25869281|expert_7|1214|1229|abstract|mental disorders|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0004936
+33271426|expert_7|4|17|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33271426|expert_7|22|28|title|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33271426|expert_7|34|43|title|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33271426|expert_7|74|95|abstract|gastrointestinal tract|anatomical location|http://purl.obolibrary.org/obo/NCIT_C34082
+33271426|expert_7|105|118|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33271426|expert_7|141|147|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33271426|expert_7|153|172|abstract|depressive disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33271426|expert_7|221|234|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33271426|expert_7|239|255|abstract|anxiety disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C2878
+33271426|expert_7|282|291|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33271426|expert_7|498|511|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33271426|expert_7|516|543|abstract|generalised anxiety disorder|DDF|http://purl.obolibrary.org/obo/NCIT_C2878
+33271426|expert_7|552|561|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33271426|expert_7|587|593|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33271426|expert_7|595|604|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33271426|expert_7|808|830|abstract|proinflammatory species|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+33271426|expert_7|839|856|abstract|Enterobacteriaceae|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_543
+33271426|expert_7|862|874|abstract|Desulfovibrio|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_872
+33271426|expert_7|888|928|abstract|short-chain fatty acid producing-bacteria|bacteria|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Short-ChainFattyAcidProducingBacteria
+33271426|expert_7|937|952|abstract|Faecalibacterium|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_216851
+33271426|expert_7|1076|1098|abstract|peripheral inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+33271426|expert_7|1107|1111|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+33271426|expert_7|1127|1140|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33271426|expert_7|1262|1285|abstract|psychotropic medications|drug|http://purl.obolibrary.org/obo/CHEBI_35471
+37403161|expert_5|18|38|title|human alpha-Synuclein|gene|http://purl.obolibrary.org/obo/NCIT_C90101
+37403161|expert_5|49|83|title|dysregulated microbiome/metabolites|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation
+37403161|expert_5|115|131|title|Parkinson disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37403161|expert_5|31|58|abstract|sporadic Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37403161|expert_5|61|62|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37403161|expert_5|231|261|abstract|alpha-Synuclein (α-Syn) protein|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C1451726
+37403161|expert_5|329|354|abstract|gut (commensal) microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+37403161|expert_5|369|373|abstract|α-Syn|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C1144501
+37403161|expert_5|423|424|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37403161|expert_5|435|465|abstract|16S rRNA and shotgun sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+37403161|expert_5|504|520|abstract|<sup>1</sup>H-NMR|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C3850002
+37403161|expert_5|579|601|abstract|intestinal inflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C3889047
+37403161|expert_5|619|623|abstract|ELISA|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0014441
+37403161|expert_5|629|642|abstract|RNA-sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+37403161|expert_5|663|689|abstract|intestinal epithelial layer|anatomical location|http://purl.obolibrary.org/obo/NCIT_C49240
+37403161|expert_5|784|797|abstract|Ussing chamber|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0012223
+37403161|expert_5|800|819|abstract|Immunohistochemistry|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0021044
+37403161|expert_5|825|850|abstract|immunofluorescence imaging|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C1318793
+37403161|expert_5|879|891|abstract|α-Syn protein|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C1451726
+37403161|expert_5|894|901|abstract|LC-MS/MS|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0872318
+37403161|expert_5|936|943|abstract|proteins|chemical|http://purl.obolibrary.org/obo/CHEBI_36080
+37403161|expert_5|1094|1114|abstract|dysregulated pathways|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation
+37403161|expert_5|1175|1189|abstract|human SNCA gene|gene|http://purl.obolibrary.org/obo/NCIT_C90101
+37403161|expert_5|1350|1362|abstract|young TG rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+37403161|expert_5|1435|1447|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+37403161|expert_5|1453|1461|abstract|Alistipes|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C1490417
+37403161|expert_5|1555|1568|abstract|ageing TG rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+37403161|expert_5|1697|1712|abstract|older TG animals|animal|https://uts.nlm.nih.gov/uts/umls/concept/C2350483
+37403161|expert_5|1728|1750|abstract|intestinal inflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C3889047
+37403161|expert_5|1753|1784|abstract|decreased Na<sup>+</sup> current|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+37403161|expert_5|1792|1833|abstract|robust alteration in metabolite production|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+37403161|expert_5|1856|1902|abstract|increase of succinate levels in feces and serum|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4047383
+37403161|expert_5|1925|1936|abstract|gut bacteria|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+37403161|expert_5|1941|1980|abstract|short-term antibiotic cocktail treatment|drug|http://purl.obolibrary.org/obo/NCIT_C258
+37403161|expert_5|2010|2032|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+37403161|expert_5|2080|2108|abstract|antibiotic cocktail treatment|drug|http://purl.obolibrary.org/obo/NCIT_C258
+37403161|expert_5|2149|2183|abstract|enteric nervous system of the colon|anatomical location|http://purl.obolibrary.org/obo/NCIT_C25584
+37403161|expert_5|2240|2254|abstract|olfactory bulbs|anatomical location|http://purl.obolibrary.org/obo/NCIT_C28401
+37403161|expert_5|2257|2265|abstract|forebrain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C40185
+37403161|expert_5|2275|2281|abstract|TG rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+37403161|expert_5|2312|2335|abstract|gut microbiome dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+37403161|expert_5|2395|2409|abstract|gut metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_82933
+37403161|expert_5|2435|2445|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+37403161|expert_5|2464|2475|abstract|PD pathology|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+38613087|expert_5|13|25|title|Psychobiotics|dietary supplement|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics
+38613087|expert_5|30|39|title|Depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+38613087|expert_5|83|85|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+38613087|expert_5|104|108|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+38613087|expert_5|162|170|abstract|Dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+38613087|expert_5|272|320|abstract|alterations in microbial composition and function|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+38613087|expert_5|375|396|abstract|microbiota alterations|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredGutMicrobiota
+38613087|expert_5|402|439|abstract|neurological and psychiatric disorders|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+38613087|expert_5|452|461|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+38613087|expert_5|502|514|abstract|psychobiotics|dietary supplement|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics
+38613087|expert_5|528|547|abstract|depressive disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+38613087|expert_5|634|646|abstract|Psychobiotics|dietary supplement|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics
+38613087|expert_5|806|815|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+38613087|expert_5|853|862|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+38613087|expert_5|957|983|abstract|psychobiotics interventions|dietary supplement|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics
+38613087|expert_5|1260|1269|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+38613087|expert_5|1313|1332|abstract|mental health issues|DDF|http://purl.obolibrary.org/obo/NCIT_C93187
+38613087|expert_5|1390|1409|abstract|depressive disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33968794|expert_7|20|39|title|Intestinal Dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33968794|expert_7|44|62|title|Parkinson's Disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|57|70|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+33968794|expert_7|75|105|abstract|central nervous system diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C12438
+33968794|expert_7|165|183|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|206|208|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+33968794|expert_7|371|389|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|458|477|abstract|intestinal dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33968794|expert_7|482|500|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|577|588|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+33968794|expert_7|591|605|abstract|barrier failure|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+33968794|expert_7|608|628|abstract|microglial activation|DDF|http://purl.obolibrary.org/obo/NCIT_C64382
+33968794|expert_7|635|655|abstract|α-synuclein pathology|DDF|http://purl.obolibrary.org/obo/NCIT_C18189
+33968794|expert_7|685|704|abstract|intestinal dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33968794|expert_7|709|727|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|730|749|abstract|Intestinal dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33968794|expert_7|793|811|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|845|863|abstract|barrier destruction|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394401
+33968794|expert_7|866|877|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+33968794|expert_7|883|898|abstract|oxidative stress|DDF|http://purl.obolibrary.org/obo/NCIT_C17741
+33968794|expert_7|1042|1050|abstract|dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+33968794|expert_7|1073|1091|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|1216|1234|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+33968794|expert_7|1359|1377|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|0|3|title|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|6|10|title|Park7|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|25|38|title|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32999308|expert_7|33|35|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32999308|expert_7|41|45|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+32999308|expert_7|149|166|abstract|clinical disorders|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+32999308|expert_7|172|190|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|193|194|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|208|215|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+32999308|expert_7|229|240|abstract|constipation|DDF|http://purl.obolibrary.org/obo/NCIT_C37930
+32999308|expert_7|490|493|abstract|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|553|554|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|619|629|abstract|familial PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|663|666|abstract|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|691|692|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|774|777|abstract|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|808|821|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32999308|expert_7|863|874|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+32999308|expert_7|951|954|abstract|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|1027|1035|abstract|Alistipes|bacteria|https://uts.nlm.nih.gov/uts/umls/concept/C1490417
+32999308|expert_7|1041|1049|abstract|Rikenella|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_28138
+32999308|expert_7|1055|1094|abstract|DJ-1 knock-out (DJ-1<sup>-/-</sup>) mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+32999308|expert_7|1114|1131|abstract|fecal calprotectin|chemical|http://purl.obolibrary.org/obo/NCIT_C105971
+32999308|expert_7|1137|1163|abstract|MCP-1 inflammatory proteins|chemical|http://purl.obolibrary.org/obo/NCIT_C20482
+32999308|expert_7|1226|1233|abstract|malonate|chemical|http://purl.obolibrary.org/obo/CHEBI_30795
+32999308|expert_7|1305|1327|abstract|DJ-1<sup>-/-</sup> mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+32999308|expert_7|1330|1333|abstract|DJ-1|chemical|http://purl.obolibrary.org/obo/NCIT_C104716
+32999308|expert_7|1394|1411|abstract|inflammatory genes|gene|https://w3id.org/XXXX/ontology/gutbrain/resource/gene/InflammatoryGene
+32999308|expert_7|1424|1425|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32999308|expert_7|1449|1456|abstract|midbrain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C23444
+32999308|expert_7|1461|1483|abstract|DJ-1<sup>-/-</sup> mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+32999308|expert_7|1524|1535|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+32999308|expert_7|1553|1555|abstract|gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32999308|expert_7|1689|1700|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+32999308|expert_7|1715|1726|abstract|PD pathology|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+34480631|expert_7|0|37|title|Microglial depletion and abnormalities|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion
+34480631|expert_7|73|95|title|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34480631|expert_7|100|103|title|mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34480631|expert_7|138|191|title|colony stimulating factor 1 receptor inhibitor PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|0|6|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|144|148|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+34480631|expert_7|189|202|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34480631|expert_7|319|325|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|397|410|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34480631|expert_7|437|459|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34480631|expert_7|462|466|abstract|SCFAs|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+34480631|expert_7|487|496|abstract|adult mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34480631|expert_7|526|532|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|634|650|abstract|prefrontal cortex|anatomical location|http://purl.obolibrary.org/obo/NCIT_C154779
+34480631|expert_7|653|655|abstract|PFC|anatomical location|http://purl.obolibrary.org/obo/NCIT_C154779
+34480631|expert_7|662|672|abstract|hippocampus|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12444
+34480631|expert_7|686|697|abstract|control mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34480631|expert_7|727|731|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+34480631|expert_7|815|834|abstract|intestine microbiota|microbiome|http://purl.obolibrary.org/obo/NCIT_C93019
+34480631|expert_7|843|863|abstract|PLX5622-treated group|animal|https://w3id.org/XXXX/ontology/gutbrain/resource/animal/TreatedGroup
+34480631|expert_7|866|905|abstract|Linear discriminant analysis effect size|statistical technique|https://uts.nlm.nih.gov/uts/umls/concept/C5940528
+34480631|expert_7|979|999|abstract|PLX5622-treated group|animal|https://w3id.org/XXXX/ontology/gutbrain/resource/animal/TreatedGroup
+34480631|expert_7|1029|1035|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|1162|1168|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|1201|1211|abstract|lactic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_42111
+34480631|expert_7|1225|1237|abstract|control group|animal|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34480631|expert_7|1323|1327|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+34480631|expert_7|1502|1508|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|1550|1563|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34480631|expert_7|1569|1579|abstract|lactic acid|chemical|http://purl.obolibrary.org/obo/CHEBI_42111
+34480631|expert_7|1584|1593|abstract|adult mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34480631|expert_7|1643|1656|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34480631|expert_7|1686|1692|abstract|PLX5622|drug|http://purl.obolibrary.org/obo/CHEBI_230497
+34480631|expert_7|1779|1794|abstract|CSF1R inhibitors|drug|http://purl.obolibrary.org/obo/CHEBI_35222
+32438623|expert_7|21|23|title|Gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32438623|expert_7|36|53|title|Unpasteurised Milk|food|http://purl.obolibrary.org/obo/NCIT_C188111
+32438623|expert_7|122|141|title|Human Gut Microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+32438623|expert_7|4|17|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+32438623|expert_7|187|214|abstract|unpasteurised dairy products|food|http://purl.obolibrary.org/obo/NCIT_C413
+32438623|expert_7|342|360|abstract|unpasteurised dairy|food|http://purl.obolibrary.org/obo/NCIT_C178184
+32438623|expert_7|420|431|abstract|participants|human|https://uts.nlm.nih.gov/uts/umls/concept/C0679646
+32438623|expert_7|514|525|abstract|participants|human|https://uts.nlm.nih.gov/uts/umls/concept/C0679646
+32438623|expert_7|649|666|abstract|unpasteurised milk|food|http://purl.obolibrary.org/obo/NCIT_C188111
+32438623|expert_7|672|685|abstract|dairy products|food|http://purl.obolibrary.org/obo/NCIT_C413
+32438623|expert_7|728|739|abstract|participants|human|https://uts.nlm.nih.gov/uts/umls/concept/C0679646
+32438623|expert_7|849|855|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+32438623|expert_7|978|1001|abstract|16S rRNA gene sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+32438623|expert_7|1018|1047|abstract|faecal short chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+32438623|expert_7|1050|1054|abstract|SCFAs|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+32438623|expert_7|1107|1119|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+32438623|expert_7|1248|1265|abstract|unpasteurised milk|food|http://purl.obolibrary.org/obo/NCIT_C188111
+32438623|expert_7|1271|1284|abstract|dairy products|food|http://purl.obolibrary.org/obo/NCIT_C413
+32438623|expert_7|1306|1316|abstract|faecal SCFA|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+32438623|expert_7|1319|1326|abstract|valerate|chemical|http://purl.obolibrary.org/obo/CHEBI_31011
+32438623|expert_7|1588|1605|abstract|unpasteurised milk|food|http://purl.obolibrary.org/obo/NCIT_C188111
+32438623|expert_7|1611|1624|abstract|dairy products|food|http://purl.obolibrary.org/obo/NCIT_C413
+32438623|expert_7|1703|1715|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+32438623|expert_7|1729|1737|abstract|human gut|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0699819
+32438623|expert_7|1903|1915|abstract|Lactobacillus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1578
+31662903|expert_7|4|26|title|Nonnutritive Sweeteners|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|67|83|title|Faecal Microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31662903|expert_7|90|112|title|Short-Chain Fatty Acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31662903|expert_7|117|139|title|Morbidly Obese Subjects|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects
+31662903|expert_7|0|6|abstract|Obesity|DDF|http://purl.obolibrary.org/obo/NCIT_C3283
+31662903|expert_7|48|61|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31662903|expert_7|118|134|abstract|faecal microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31662903|expert_7|140|162|abstract|short-chain fatty acids|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31662903|expert_7|165|168|abstract|SCFA|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31662903|expert_7|207|229|abstract|nonnutritive sweeteners|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|232|235|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|279|286|abstract|subjects|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects
+31662903|expert_7|293|306|abstract|morbid obesity|DDF|http://purl.obolibrary.org/obo/NCIT_C34858
+31662903|expert_7|390|393|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|420|423|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|451|454|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|461|477|abstract|faecal microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+31662903|expert_7|497|518|abstract|GA-map® dysbiosis test|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/GaMapDysbiosisTest
+31662903|expert_7|524|527|abstract|SCFA|chemical|http://purl.obolibrary.org/obo/CHEBI_26666
+31662903|expert_7|534|551|abstract|gas chromatography|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0008555
+31662903|expert_7|557|582|abstract|flame ionisation detection|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C4525803
+31662903|expert_7|594|596|abstract|men|human|https://www.ncbi.nlm.nih.gov/mesh/D008571
+31662903|expert_7|605|609|abstract|women|human|https://uts.nlm.nih.gov/uts/umls/concept/C0043210
+31662903|expert_7|701|704|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|756|774|abstract|Faecal butyric acid|chemical|http://purl.obolibrary.org/obo/CHEBI_30772
+31662903|expert_7|836|841|abstract|starch|food|http://purl.obolibrary.org/obo/NCIT_C68488
+31662903|expert_7|893|896|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|960|963|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|1012|1027|abstract|bacterial groups|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+31662903|expert_7|1030|1041|abstract|Butyric acid|chemical|http://purl.obolibrary.org/obo/CHEBI_30772
+31662903|expert_7|1079|1096|abstract|insulin resistance|DDF|http://purl.obolibrary.org/obo/NCIT_C113101
+31662903|expert_7|1112|1124|abstract|dyslipidaemia|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0242339
+31662903|expert_7|1163|1166|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|1171|1182|abstract|obese adults|human|https://www.ncbi.nlm.nih.gov/mesh/D000328
+31662903|expert_7|1244|1247|abstract|NNSs|food|https://uts.nlm.nih.gov/uts/umls/concept/C0260274
+31662903|expert_7|1297|1308|abstract|butyric acid|chemical|http://purl.obolibrary.org/obo/CHEBI_30772
+30405455|expert_7|62|86|title|Major Depressive Disorder|DDF|http://purl.obolibrary.org/obo/OMIT_0005141
+30405455|expert_7|315|328|abstract|germ-free mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30405455|expert_7|331|334|abstract|mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30405455|expert_7|347|357|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+30405455|expert_7|364|398|abstract|healthy specific pathogen free mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+30405455|expert_7|518|522|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+30405455|expert_7|703|734|abstract|psychiatric and bodily disorders|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+30405455|expert_7|836|855|abstract|co-morbid conditions|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1275743
+30405455|expert_7|888|912|abstract|major depressive disorder|DDF|http://purl.obolibrary.org/obo/OMIT_0005141
+30405455|expert_7|924|937|abstract|mental illness|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0004936
+30405455|expert_7|980|987|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+30405455|expert_7|1248|1267|abstract|clinical populations|human|https://www.ncbi.nlm.nih.gov/mesh/D011153
+30405455|expert_7|1437|1464|abstract|co-morbid metabolic syndrome|DDF|http://purl.obolibrary.org/obo/NCIT_C84442
+30405455|expert_7|1470|1479|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+30405455|expert_7|1515|1520|abstract|leptin|chemical|http://purl.obolibrary.org/obo/CHEBI_81571
+30405455|expert_7|1526|1532|abstract|ghrelin|chemical|http://purl.obolibrary.org/obo/CHEBI_75431
+30405455|expert_7|1655|1674|abstract|depressed population|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients
+34290352|expert_2|14|27|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34290352|expert_2|32|43|title|MDD patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+34290352|expert_2|51|65|title|SSRIs treatment|drug|https://uts.nlm.nih.gov/uts/umls/concept/C0360105
+34290352|expert_2|23|36|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34290352|expert_2|98|107|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+34290352|expert_2|170|190|abstract|intestinal microbiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+34290352|expert_2|195|212|abstract|depressed patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients
+34290352|expert_2|220|243|abstract|antidepressant treatment|drug|https://uts.nlm.nih.gov/uts/umls/concept/C0003289
+34290352|expert_2|262|273|abstract|MDD patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+34290352|expert_2|276|284|abstract|MDD group|human|https://www.ncbi.nlm.nih.gov/mesh/D011153
+34290352|expert_2|294|309|abstract|healthy controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|312|324|abstract|control group|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|332|340|abstract|MDD group|human|https://www.ncbi.nlm.nih.gov/mesh/D011153
+34290352|expert_2|381|392|abstract|escitalopram|drug|http://purl.obolibrary.org/obo/CHEBI_36791
+34290352|expert_2|577|590|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34290352|expert_2|600|607|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+34290352|expert_2|613|620|abstract|controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|646|659|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34290352|expert_2|975|983|abstract|MDD group|human|https://www.ncbi.nlm.nih.gov/mesh/D011153
+34290352|expert_2|1081|1108|abstract|control and follow-up groups|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|1138|1145|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+34290352|expert_2|1157|1168|abstract|participants|human|https://uts.nlm.nih.gov/uts/umls/concept/C0679646
+34290352|expert_2|1177|1189|abstract|control group|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|1218|1231|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34290352|expert_2|1286|1298|abstract|control group|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+34290352|expert_2|1330|1345|abstract|intestinal flora|microbiome|http://purl.obolibrary.org/obo/NCIT_C93019
+34290352|expert_2|1350|1367|abstract|depressed patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients
+34290352|expert_2|1410|1431|abstract|escitalopram treatment|drug|http://purl.obolibrary.org/obo/CHEBI_36791
+37676767|expert_5|0|16|title|Fiber deprivation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0871712
+37676767|expert_5|22|43|title|microbiome-borne curli|chemical|https://w3id.org/XXXX/ontology/gutbrain/resource/chemical/MicrobiomeBorneCurli
+37676767|expert_5|51|75|title|gut bacterial populations|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_2
+37676767|expert_5|120|138|title|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37676767|expert_5|0|18|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37676767|expert_5|21|22|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37676767|expert_5|30|50|abstract|neurological disorder|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases
+37676767|expert_5|69|85|abstract|motor dysfunction|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5979810
+37676767|expert_5|88|111|abstract|dopaminergic neuron loss|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1850496
+37676767|expert_5|118|150|abstract|alpha-synuclein (αSyn) inclusions|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlphaSynNeurotoxicity
+37676767|expert_5|234|266|abstract|Lifestyle and microbial dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+37676767|expert_5|300|324|abstract|Diet-driven gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+37676767|expert_5|330|353|abstract|reduced barrier function|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+37676767|expert_5|380|394|abstract|enteric neurons|chemical|http://purl.obolibrary.org/obo/NCIT_C52709
+37676767|expert_5|399|404|abstract|toxins|chemical|http://purl.obolibrary.org/obo/CHEBI_27026
+37676767|expert_5|430|446|abstract|fiber deprivation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0871712
+37676767|expert_5|464|478|abstract|bacterial curli|chemical|http://purl.obolibrary.org/obo/CHEBI_76969
+37676767|expert_5|483|489|abstract|protein|chemical|http://purl.obolibrary.org/obo/CHEBI_36080
+37676767|expert_5|510|513|abstract|αSyn|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C1144501
+37676767|expert_5|651|664|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+37676767|expert_5|687|724|abstract|gastrointestinal and brain pathologies|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0017178
+37676767|expert_5|749|763|abstract|bacterial curli|chemical|http://purl.obolibrary.org/obo/CHEBI_76969
+37676767|expert_5|831|862|abstract|intestinal and brain pathologies|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0017178
+37676767|expert_5|1065|1066|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+25911232|expert_2|200|221|abstract|central nervous system|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12438
+25911232|expert_2|224|226|abstract|CNS|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12438
+25911232|expert_2|237|258|abstract|gastrointestinal tract|anatomical location|http://purl.obolibrary.org/obo/NCIT_C34082
+25911232|expert_2|369|371|abstract|CNS|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12438
+25911232|expert_2|577|593|abstract|germ-free animals|animal|http://purl.obolibrary.org/obo/NCIT_C14182
+25911232|expert_2|596|611|abstract|probiotic agents|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+25911232|expert_2|614|624|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+25911232|expert_2|630|636|abstract|animals|animal|http://purl.obolibrary.org/obo/NCIT_C14182
+25911232|expert_2|649|679|abstract|pathogenic bacterial infections|DDF|http://purl.obolibrary.org/obo/NCIT_C2890
+25911232|expert_2|713|726|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+25911232|expert_2|781|787|abstract|obesity|DDF|http://purl.obolibrary.org/obo/NCIT_C3283
+25911232|expert_2|1026|1050|abstract|neuropsychiatric diseases|DDF|http://purl.obolibrary.org/obo/OMIT_0005457
+25911232|expert_2|1065|1083|abstract|affective disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C92200
+25911232|expert_2|1088|1093|abstract|autism|DDF|http://purl.obolibrary.org/obo/NCIT_C97161
+25911232|expert_2|1099|1111|abstract|schizophrenia|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+25911232|expert_2|1138|1150|abstract|psychobiotics|dietary supplement|https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics
+33195226|expert_4|29|41|title|Gut Dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33195226|expert_4|108|120|title|Schizophrenia|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|0|12|abstract|Schizophrenia|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|15|16|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|24|43|abstract|psychiatric disorder|DDF|http://purl.obolibrary.org/obo/NCIT_C2893
+33195226|expert_4|287|297|abstract|SZ patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/PatientsWithSchizophrenia
+33195226|expert_4|316|331|abstract|healthy controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+33195226|expert_4|362|363|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|398|410|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33195226|expert_4|443|497|abstract|metabotropic glutamate receptor 5 (mGlu5) knockout mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33195226|expert_4|530|531|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|637|679|abstract|mGlu5 knockout (KO) and wild-type (WT) mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33195226|expert_4|684|702|abstract|16S rRNA sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+33195226|expert_4|948|985|abstract|Analysis of composition of microbiomes|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/MicrobiomeAnalysis
+33195226|expert_4|988|992|abstract|ANCOM|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/MicrobiomeAnalysis
+33195226|expert_4|1109|1141|abstract|<i>Erysipelotrichaceae</i> family|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_128827
+33195226|expert_4|1147|1170|abstract|<i>Allobaculum</i> genus|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_174708
+33195226|expert_4|1195|1196|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|1310|1327|abstract|Erysipelotrichales|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D004888
+33195226|expert_4|1330|1342|abstract|Bacteroidales|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D001439
+33195226|expert_4|1349|1361|abstract|Clostridiales|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D000068016
+33195226|expert_4|1501|1520|abstract|mGlu5 KO and WT mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33195226|expert_4|1556|1568|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33195226|expert_4|1599|1600|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|1667|1668|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|1721|1733|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33195226|expert_4|1822|1823|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+33195226|expert_4|1885|1897|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33195226|expert_4|1925|1941|abstract|brain dysfunction|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0262405
+33195226|expert_4|1946|1947|abstract|SZ|DDF|http://purl.obolibrary.org/obo/NCIT_C3362
+28716445|expert_2|24|37|title|Gut Microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+28716445|expert_2|81|102|title|Psychiatric Conditions|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+28716445|expert_2|133|144|abstract|hypothalamus|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0020663
+28716445|expert_2|256|269|abstract|peripheral gut|anatomical location|https://w3id.org/XXXX/ontology/gutbrain/resource/anatomicsite/PeripheralGut
+28716445|expert_2|364|368|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+28716445|expert_2|501|522|abstract|psychiatric conditions|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+28716445|expert_2|533|548|abstract|anorexia nervosa|DDF|http://purl.obolibrary.org/obo/NCIT_C34387
+28716445|expert_2|554|563|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+28716445|expert_2|797|802|abstract|stress|DDF|http://purl.obolibrary.org/obo/NCIT_C35041
+28716445|expert_2|895|908|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+28716445|expert_2|954|961|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+28716445|expert_2|968|988|abstract|psychiatric illnesses|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0004936
+28716445|expert_2|991|1004|abstract|Gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+28716445|expert_2|1039|1059|abstract|psychiatric illnesses|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0004936
+28716445|expert_2|1101|1114|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+28716445|expert_2|1122|1131|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+32389857|expert_2|44|64|title|psychiatric disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C2893
+32389857|expert_2|48|61|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+32389857|expert_2|101|114|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+32389857|expert_2|297|312|abstract|intestinal flora|microbiome|http://purl.obolibrary.org/obo/NCIT_C93019
+32389857|expert_2|580|595|abstract|healthy subjects|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects
+32389857|expert_2|667|675|abstract|dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+32389857|expert_2|741|747|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+32389857|expert_2|753|762|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+32389857|expert_2|829|853|abstract|autism spectrum disorders|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+32389857|expert_2|859|884|abstract|neurodegenerative diseases|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases
+32389857|expert_2|892|910|abstract|Alzheimer's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+32389857|expert_2|916|934|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+32389857|expert_2|1331|1352|abstract|neuropsychiatric drugs|drug|http://purl.obolibrary.org/obo/CHEBI_23888
+32389857|expert_2|1529|1548|abstract|human gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|37|50|title|Gut Microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|55|61|title|Anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33777957|expert_2|67|76|title|Depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33777957|expert_2|0|6|abstract|Anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33777957|expert_2|12|21|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33777957|expert_2|44|59|abstract|mental illnesses|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+33777957|expert_2|231|244|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|285|291|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33777957|expert_2|297|306|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33777957|expert_2|351|371|abstract|intestinal microbiota|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome
+33777957|expert_2|378|389|abstract|serotonergic|chemical|http://purl.obolibrary.org/obo/CHEBI_35941
+33777957|expert_2|392|403|abstract|dopaminergic|chemical|http://purl.obolibrary.org/obo/CHEBI_48560
+33777957|expert_2|410|422|abstract|noradrenergic|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C0599861
+33777957|expert_2|445|449|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+33777957|expert_2|481|518|abstract|anxiety- and depression-like behaviors|DDF|http://purl.obolibrary.org/obo/OMIT_0005141
+33777957|expert_2|597|613|abstract|germ-free rodents|animal|http://purl.obolibrary.org/obo/NCBITaxon_9989
+33777957|expert_2|668|678|abstract|antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+33777957|expert_2|709|718|abstract|probiotics|dietary supplement|https://uts.nlm.nih.gov/uts/umls/concept/C0525033
+33777957|expert_2|800|813|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|858|864|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33777957|expert_2|870|879|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+33777957|expert_2|932|945|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|977|987|abstract|human brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+33777957|expert_2|1081|1094|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33777957|expert_2|1161|1165|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+33777957|expert_2|1177|1199|abstract|gut-brain axis diseases|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0017178
+33777957|expert_2|1210|1216|abstract|anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+33777957|expert_2|1222|1231|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+34205336|expert_5|39|52|title|Gut Microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34205336|expert_5|82|103|title|Neurological Disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C26835
+34205336|expert_5|33|46|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34205336|expert_5|299|312|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+34205336|expert_5|318|324|abstract|neurons|chemical|http://purl.obolibrary.org/obo/NCIT_C12623
+34205336|expert_5|333|337|abstract|brain|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+34205336|expert_5|470|483|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34205336|expert_5|584|603|abstract|microbiome dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+34205336|expert_5|647|672|abstract|neurodegenerative diseases|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases
+34205336|expert_5|682|700|abstract|Alzheimer's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+34205336|expert_5|706|724|abstract|Parkinson's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+28556833|expert_5|12|33|title|interleukin-6 receptor|chemical|http://purl.obolibrary.org/obo/CHEBI_52998
+28556833|expert_5|42|50|title|periphery|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0178784
+28556833|expert_5|0|9|abstract|Depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+28556833|expert_5|35|61|abstract|chronic psychiatric disease|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+28556833|expert_5|97|111|abstract|antidepressants|drug|http://purl.obolibrary.org/obo/CHEBI_35469
+28556833|expert_5|148|157|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+28556833|expert_5|234|259|abstract|pro-inflammatory cytokines|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1708430
+28556833|expert_5|269|281|abstract|interleukin-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1704829
+28556833|expert_5|284|287|abstract|IL-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334122
+28556833|expert_5|336|345|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+28556833|expert_5|393|425|abstract|anti-mouse IL-6 receptor antibody|chemical|http://purl.obolibrary.org/obo/CHEBI_52998
+28556833|expert_5|428|433|abstract|MR16-1|chemical|http://purl.obolibrary.org/obo/NCIT_C163951
+28556833|expert_5|525|530|abstract|MR16-1|chemical|http://purl.obolibrary.org/obo/NCIT_C163951
+28556833|expert_5|595|610|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|618|637|abstract|social defeat stress|DDF|http://purl.obolibrary.org/obo/NCIT_C121275
+28556833|expert_5|728|733|abstract|MR16-1|chemical|http://purl.obolibrary.org/obo/NCIT_C163951
+28556833|expert_5|772|787|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|818|823|abstract|MR16-1|chemical|http://purl.obolibrary.org/obo/NCIT_C163951
+28556833|expert_5|888|904|abstract|synaptic proteins|chemical|http://purl.obolibrary.org/obo/CHEBI_3254
+28556833|expert_5|907|937|abstract|postsynaptic density protein 95|chemical|https://uts.nlm.nih.gov/uts/umls/concept/C4318444
+28556833|expert_5|943|1005|abstract|α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptor 1|chemical|http://purl.obolibrary.org/obo/NCIT_C20158
+28556833|expert_5|1043|1055|abstract|brain regions|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12439
+28556833|expert_5|1060|1075|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|1108|1140|abstract|16S ribosomal RNA gene sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+28556833|expert_5|1154|1159|abstract|MR16-1|chemical|http://purl.obolibrary.org/obo/NCIT_C163951
+28556833|expert_5|1228|1243|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|1297|1308|abstract|Oscillospira|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_119852
+28556833|expert_5|1313|1328|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|1359|1373|abstract|peripheral IL-6|gene|https://uts.nlm.nih.gov/uts/umls/concept/C1334122
+28556833|expert_5|1413|1422|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+28556833|expert_5|1449|1461|abstract|IL-6 receptor|chemical|http://purl.obolibrary.org/obo/CHEBI_52998
+28556833|expert_5|1470|1478|abstract|periphery|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0178784
+28556833|expert_5|1585|1598|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+28556833|expert_5|1603|1618|abstract|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+28556833|expert_5|1626|1645|abstract|social defeat stress|DDF|http://purl.obolibrary.org/obo/NCIT_C121275
+28556833|expert_5|1675|1687|abstract|IL-6 receptor|chemical|http://purl.obolibrary.org/obo/CHEBI_52998
+28556833|expert_5|1696|1704|abstract|periphery|anatomical location|https://uts.nlm.nih.gov/uts/umls/concept/C0178784
+28556833|expert_5|1756|1773|abstract|depressed patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients
+35674870|expert_5|0|16|title|Neurodegeneration|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1395088
+35674870|expert_5|22|38|title|Neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|43|61|title|Parkinson's Disease|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|0|16|abstract|Neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|46|78|abstract|Parkinson's disease (PD) etiology|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|91|115|abstract|mitochondrial dysfunction|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4021734
+35674870|expert_5|121|141|abstract|impaired proteostasis|DDF|http://purl.obolibrary.org/obo/NCIT_C94372
+35674870|expert_5|308|331|abstract|anti-inflammatory agents|drug|http://purl.obolibrary.org/obo/CHEBI_67079
+35674870|expert_5|378|379|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|427|428|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|569|585|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|590|591|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|619|645|abstract|Cell autonomous alterations|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome
+35674870|expert_5|676|695|abstract|mitochondrial damage|DDF|http://purl.obolibrary.org/obo/NCIT_C45524
+35674870|expert_5|701|719|abstract|protein aggregation|DDF|http://purl.obolibrary.org/obo/NCIT_C62344
+35674870|expert_5|928|929|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|1090|1106|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|1111|1112|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|1263|1279|abstract|neurodegeneration|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1395088
+35674870|expert_5|1285|1301|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|1421|1437|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+35674870|expert_5|1442|1443|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|1505|1518|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+35674870|expert_5|1568|1584|abstract|affected patients|human|https://uts.nlm.nih.gov/uts/umls/concept/C0522476
+35674870|expert_5|1642|1643|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+35674870|expert_5|1702|1713|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+35674870|expert_5|1865|1882|abstract|PD patient cohorts|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients
+35674870|expert_5|1974|1985|abstract|inflammation|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+35674870|expert_5|1990|1991|abstract|PD|DDF|http://purl.obolibrary.org/obo/NCIT_C26845
+37071196|expert_5|19|32|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37071196|expert_5|85|128|title|internalizing and externalizing difficulties|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+37071196|expert_5|134|147|title|social anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C34927
+37071196|expert_5|22|35|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37071196|expert_5|435|478|abstract|internalizing and externalizing difficulties|DDF|http://purl.obolibrary.org/obo/OGMS_0000045
+37071196|expert_5|484|497|abstract|social anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C34927
+37071196|expert_5|561|582|abstract|mental health problems|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+37071196|expert_5|630|671|abstract|16S ribosomal RNA gene amplicon sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+37071196|expert_5|709|716|abstract|children|human|https://uts.nlm.nih.gov/uts/umls/concept/C0680063
+37071196|expert_5|729|745|abstract|clustering method|statistical technique|https://uts.nlm.nih.gov/uts/umls/concept/C0009085
+37071196|expert_5|820|858|abstract|children within three of these clusters|human|https://www.ncbi.nlm.nih.gov/mesh/D002648
+37071196|expert_5|1106|1119|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37071196|expert_5|1188|1198|abstract|Bacteroides|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D001439
+37071196|expert_5|1201|1210|abstract|Prevotella|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D018720
+37071196|expert_5|1217|1228|abstract|Ruminococcus|bacteria|https://www.ncbi.nlm.nih.gov/mesh/D045857
+37071196|expert_5|1393|1419|abstract|more externalizing behavior|DDF|http://purl.obolibrary.org/obo/OMIT_0002889
+37071196|expert_5|1499|1512|abstract|social anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C34927
+37071196|expert_5|1599|1614|abstract|Faecalibacterium|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_216851
+37071196|expert_5|1620|1633|abstract|social anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C34927
+37071196|expert_5|1642|1653|abstract|14-year-olds|human|https://www.ncbi.nlm.nih.gov/mesh/D000293
+37071196|expert_5|1864|1875|abstract|Prevotella 9|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_1486939
+37071196|expert_5|1881|1896|abstract|Faecalibacterium|bacteria|http://purl.obolibrary.org/obo/NCBITaxon_216851
+37071196|expert_5|1944|1965|abstract|externalizing behavior|DDF|http://purl.obolibrary.org/obo/OMIT_0002889
+37071196|expert_5|1971|1984|abstract|social anxiety|DDF|http://purl.obolibrary.org/obo/NCIT_C34927
+37849234|expert_5|16|35|title|Alzheimer's patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients
+37849234|expert_5|44|64|title|deficits in cognition|DDF|http://purl.obolibrary.org/obo/NCIT_C37940
+37849234|expert_5|0|18|abstract|Alzheimer's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37849234|expert_5|25|58|abstract|complex neurodegenerative disorder|DDF|http://purl.obolibrary.org/obo/NCIT_C39737
+37849234|expert_5|73|119|abstract|decline in cognitive function and mental health|DDF|http://purl.obolibrary.org/obo/OMIT_0002893
+37849234|expert_5|157|170|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37849234|expert_5|213|231|abstract|Alzheimer's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37849234|expert_5|302|321|abstract|Alzheimer's patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients
+37849234|expert_5|376|401|abstract|gut microbiota alterations|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredGutMicrobiota
+37849234|expert_5|438|457|abstract|Alzheimer's symptoms|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37849234|expert_5|493|526|abstract|Alzheimer's patient gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37849234|expert_5|578|594|abstract|faecal microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37849234|expert_5|601|620|abstract|Alzheimer's patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients
+37849234|expert_5|626|653|abstract|age-matched healthy controls|human|https://uts.nlm.nih.gov/uts/umls/concept/C0009932
+37849234|expert_5|660|695|abstract|microbiota-depleted young adult rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+37849234|expert_5|966|979|abstract|donor patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+37849234|expert_5|1006|1042|abstract|rat caecal and hippocampal metabolome|chemical|http://purl.obolibrary.org/obo/CHEBI_86264
+37849234|expert_5|1113|1125|abstract|living humans|human|https://uts.nlm.nih.gov/uts/umls/concept/C0086418
+37849234|expert_5|1291|1310|abstract|Alzheimer's patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients
+37849234|expert_5|1472|1491|abstract|Alzheimer's symptoms|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37849234|expert_5|1548|1561|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37849234|expert_5|1592|1605|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+37849234|expert_5|1610|1628|abstract|Alzheimer's disease|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+37849234|expert_5|1771|1781|abstract|Alzheimer's|DDF|http://purl.obolibrary.org/obo/NCIT_C2866
+33963281|expert_6|0|13|title|Gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|29|49|title|inflammatory response|DDF|http://purl.obolibrary.org/obo/NCIT_C20151
+33963281|expert_6|55|74|title|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+33963281|expert_6|87|103|title|sleep deprivation|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|0|16|abstract|Sleep deprivation|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|19|20|abstract|SD|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|87|125|abstract|dysregulation of inflammatory responses|DDF|https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation
+33963281|expert_6|131|150|abstract|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+33963281|expert_6|220|233|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|296|332|abstract|inflammatory and psychiatric diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+33963281|expert_6|386|402|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+33963281|expert_6|450|451|abstract|SD|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|523|536|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|560|586|abstract|chronic inflammatory states|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+33963281|expert_6|592|611|abstract|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+33963281|expert_6|633|634|abstract|SD|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|651|674|abstract|SD-induced gut dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|677|698|abstract|inflammatory responses|DDF|http://purl.obolibrary.org/obo/NCIT_C20151
+33963281|expert_6|705|724|abstract|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+33963281|expert_6|729|734|abstract|humans|human|https://uts.nlm.nih.gov/uts/umls/concept/C1300203
+33963281|expert_6|766|779|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|792|812|abstract|inflammatory response|DDF|http://purl.obolibrary.org/obo/NCIT_C20151
+33963281|expert_6|818|837|abstract|cognitive impairment|DDF|http://purl.obolibrary.org/obo/NCIT_C116921
+33963281|expert_6|850|851|abstract|SD|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|856|874|abstract|germ-free (GF) mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33963281|expert_6|901|913|abstract|SD microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|921|927|abstract|GF mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33963281|expert_6|943|980|abstract|Toll-like receptor 4/nuclear factor-κB|chemical|http://purl.obolibrary.org/obo/CHEBI_77161
+33963281|expert_6|1013|1030|abstract|cognitive function|DDF|http://purl.obolibrary.org/obo/NCIT_C103850
+33963281|expert_6|1039|1052|abstract|recipient mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33963281|expert_6|1055|1058|abstract|Mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+33963281|expert_6|1075|1087|abstract|SD microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+33963281|expert_6|1118|1134|abstract|neuroinflammation|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C5394393
+33963281|expert_6|1167|1177|abstract|hippocampus|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12444
+33963281|expert_6|1183|1206|abstract|medial prefrontal cortex|anatomical location|http://purl.obolibrary.org/obo/NCIT_C154779
+33963281|expert_6|1238|1250|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+33963281|expert_6|1322|1339|abstract|cognitive deficits|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0009241
+33963281|expert_6|1361|1362|abstract|SD|DDF|http://purl.obolibrary.org/obo/OMIT_0013780
+33963281|expert_6|1465|1474|abstract|sleep loss|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C0235161
+36804535|expert_3|22|31|title|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|40|67|title|reduced bone mineral density|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|72|87|title|susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|95|122|title|chronic social defeat stress|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C4050347
+36804535|expert_3|0|7|abstract|Patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+36804535|expert_3|14|23|abstract|depression|DDF|http://purl.obolibrary.org/obo/NCIT_C124639
+36804535|expert_3|33|60|abstract|reduced bone mineral density|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|120|129|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|144|154|abstract|reduced BMD|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|164|215|abstract|chronic social defeat stress (CSDS) susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|221|239|abstract|ovariectomized mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|270|283|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+36804535|expert_3|356|369|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+36804535|expert_3|465|474|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|496|518|abstract|anhedonia-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C3673
+36804535|expert_3|524|534|abstract|reduced BMD|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|544|564|abstract|CSDS susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|594|603|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|628|650|abstract|anhedonia-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C3673
+36804535|expert_3|656|702|abstract|decreased femoral neck cortical (and total) BMD|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|707|727|abstract|CSDS susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|771|793|abstract|anhedonia-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C3673
+36804535|expert_3|861|870|abstract|microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+36804535|expert_3|877|894|abstract|plasma metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+36804535|expert_3|920|923|abstract|CSDS|DDF|http://purl.obolibrary.org/obo/NCIT_C35041
+36804535|expert_3|927|932|abstract|saline|chemical|http://purl.obolibrary.org/obo/NCIT_C821
+36804535|expert_3|938|941|abstract|CSDS|DDF|http://purl.obolibrary.org/obo/NCIT_C35041
+36804535|expert_3|945|954|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|1024|1033|abstract|microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+36804535|expert_3|1040|1057|abstract|plasma metabolites|chemical|http://purl.obolibrary.org/obo/CHEBI_25212
+36804535|expert_3|1157|1166|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|1189|1220|abstract|reduced cortical (and total) BMD|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+36804535|expert_3|1230|1250|abstract|CSDS susceptible mice|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+36804535|expert_3|1307|1316|abstract|arketamine|drug|https://uts.nlm.nih.gov/uts/umls/concept/C5940914
+36804535|expert_3|1352|1369|abstract|depressed patients|human|https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients
+36804535|expert_3|1376|1382|abstract|low BMD|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C2674432
+34174901|expert_6|24|34|title|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|45|82|title|inflammation and anxiety-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+34174901|expert_6|94|96|title|SCI|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|101|104|title|rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34174901|expert_6|128|141|title|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34174901|expert_6|0|10|abstract|Minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|156|166|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|235|265|abstract|central nervous system injuries|DDF|http://purl.obolibrary.org/obo/NCIT_C161518
+34174901|expert_6|407|430|abstract|minocycline's antibiotic|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|469|482|abstract|gut microbiota|microbiome|http://purl.obolibrary.org/obo/OHMI_0000463
+34174901|expert_6|519|536|abstract|spinal cord injury|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|616|633|abstract|immune suppression|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C1840264
+34174901|expert_6|762|786|abstract|cervical contusion injury|DDF|http://purl.obolibrary.org/obo/OMIT_0028827
+34174901|expert_6|791|807|abstract|female Lewis rats|animal|http://purl.obolibrary.org/obo/NCIT_C45247
+34174901|expert_6|848|858|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|870|887|abstract|spinal cord injury|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|1034|1044|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|1064|1083|abstract|cytokines/chemokines|chemical|http://purl.obolibrary.org/obo/NCIT_C20464
+34174901|expert_6|1125|1143|abstract|16s rRNA sequencing|biomedical technique|https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing
+34174901|expert_6|1183|1200|abstract|spinal cord injury|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|1278|1298|abstract|anxiety-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+34174901|expert_6|1453|1463|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|1636|1655|abstract|cytokines/chemokines|chemical|http://purl.obolibrary.org/obo/NCIT_C20464
+34174901|expert_6|1671|1683|abstract|gut dysbiosis|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4287543
+34174901|expert_6|1695|1712|abstract|spinal cord injury|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|1752|1772|abstract|anxiety-like behavior|DDF|http://purl.obolibrary.org/obo/NCIT_C26696
+34174901|expert_6|1803|1813|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|1838|1848|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|1861|1886|abstract|spinal cord injury-induced|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|2062|2094|abstract|systemic cytokines and chemokines|chemical|http://purl.obolibrary.org/obo/NCIT_C20464
+34174901|expert_6|2106|2123|abstract|spinal cord injury|DDF|http://purl.obolibrary.org/obo/NCIT_C50750
+34174901|expert_6|2174|2184|abstract|minocycline|drug|http://purl.obolibrary.org/obo/CHEBI_50694
+34174901|expert_6|2207|2237|abstract|central nervous system diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C12438
+33327540|expert_5|0|13|title|Ketogenic Diet|food|https://uts.nlm.nih.gov/uts/umls/concept/C0452415
+33327540|expert_5|0|16|abstract|Anxiety disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C2878
+33327540|expert_5|248|276|abstract|monoaminergic antidepressants|drug|http://purl.obolibrary.org/obo/CHEBI_35469
+33327540|expert_5|279|293|abstract|benzodiazepines|drug|http://purl.obolibrary.org/obo/CHEBI_22720
+33327540|expert_5|300|302|abstract|CBT|drug|https://uts.nlm.nih.gov/uts/umls/concept/C4725914
+33327540|expert_5|358|374|abstract|anxiety disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C2878
+33327540|expert_5|548|578|abstract|Low-carbohydrate high-fat diets|food|http://purl.obolibrary.org/obo/NCIT_C178186
+33327540|expert_5|581|584|abstract|LCHF|food|http://purl.obolibrary.org/obo/NCIT_C178186
+33327540|expert_5|628|644|abstract|anxiety disorders|DDF|http://purl.obolibrary.org/obo/NCIT_C2878
+33327540|expert_5|713|720|abstract|patients|human|https://www.ncbi.nlm.nih.gov/mesh/68010361
+33327540|expert_5|837|840|abstract|LCHF|food|http://purl.obolibrary.org/obo/NCIT_C178186
+25940667|expert_4|4|27|title|dormant blood microbiome|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/DormantBloodMicrobiome
+25940667|expert_4|32|61|title|chronic, inflammatory diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+25940667|expert_4|551|593|abstract|sequence-based and ultramicroscopic studies|biomedical technique|https://uts.nlm.nih.gov/uts/umls/concept/C4319106
+25940667|expert_4|623|638|abstract|blood microbiome|microbiome|https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/DormantBloodMicrobiome
+25940667|expert_4|655|679|abstract|non-communicable diseases|DDF|https://uts.nlm.nih.gov/uts/umls/concept/C4505065
+25940667|expert_4|724|737|abstract|gut microbiome|microbiome|http://purl.obolibrary.org/obo/OHMI_0000020
+25940667|expert_4|811|819|abstract|dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+25940667|expert_4|873|883|abstract|oral cavity|anatomical location|http://purl.obolibrary.org/obo/NCIT_C12421
+25940667|expert_4|887|895|abstract|Dysbiosis|DDF|http://purl.obolibrary.org/obo/OMIT_0028544
+25940667|expert_4|1158|1178|abstract|inflammatory diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+25940667|expert_4|1214|1261|abstract|chronic, non-communicable, inflammatory diseases|DDF|http://purl.obolibrary.org/obo/NCIT_C3137
+25940667|expert_4|1352|1375|abstract|bactericidal antibiotics|drug|http://purl.obolibrary.org/obo/NCIT_C258
+25940667|expert_4|1380|1387|abstract|vaccines|drug|https://uts.nlm.nih.gov/uts/umls/concept/C0042210

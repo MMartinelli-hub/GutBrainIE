@@ -1,0 +1,531 @@
+pmid	annotator	subject_uri	subject_label	predicate	object_uri	object_label
+36532064	expert_7	http://purl.obolibrary.org/obo/NCIT_C16319	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+36532064	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36532064	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+36532064	expert_7	http://purl.obolibrary.org/obo/NCIT_C3243	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36532064	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+36532064	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36532064	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/BrainMicrobiota	microbiome	compared to	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+36532064	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36532064	expert_7	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36532064	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C2889	DDF
+
+
+37212075	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	compared to	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome
+37212075	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria	located in	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+37212075	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C39737	DDF
+37212075	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37212075	expert_5	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	located in	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+37212075	expert_5	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	used by	http://purl.obolibrary.org/obo/NCIT_C16585	biomedical technique
+37212075	expert_5	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRdnsAnalysis	biomedical technique
+37212075	expert_5	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37212075	expert_5	https://www.ncbi.nlm.nih.gov/mesh/68010361	human	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRdnsAnalysis	biomedical technique
+37212075	expert_5	https://www.ncbi.nlm.nih.gov/mesh/68010361	human	used by	http://purl.obolibrary.org/obo/NCIT_C16585	biomedical technique
+37212075	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C39737	DDF
+
+
+37577447	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0027361	human
+37577447	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0027361	human
+37577447	expert_5	http://purl.obolibrary.org/obo/NCIT_C93040	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C1706180	human
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	compared to	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0027361	human
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0009932	human
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C93040	DDF
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C1706180	human
+37577447	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C1706180	human
+37577447	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C2866	DDF
+
+
+38203207	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders	DDF
+38203207	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D000458	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_18295	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_18243	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/NCIT_C97161	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders	DDF
+38203207	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D000458	bacteria	influence	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders	DDF
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_26666	chemical	produced by	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_73493	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_172425	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0220839	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders	DDF
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_3098	chemical	produced by	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_188286	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_229980	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders	DDF
+38203207	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C0004936	DDF
+38203207	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D001421	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_28790	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_16865	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38203207	expert_5	http://purl.obolibrary.org/obo/CHEBI_90022	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+
+
+31530799	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+31530799	expert_2	http://purl.obolibrary.org/obo/NCBITaxon_1578	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31530799	expert_2	http://purl.obolibrary.org/obo/CHEBI_26666	chemical	produced by	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31530799	expert_2	https://www.ncbi.nlm.nih.gov/mesh/D056546	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31530799	expert_2	https://www.ncbi.nlm.nih.gov/mesh/D047010	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31530799	expert_2	https://uts.nlm.nih.gov/uts/umls/concept/C1500236	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31530799	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C35041	DDF
+31530799	expert_2	http://purl.obolibrary.org/obo/NCBITaxon_33958	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+
+
+38525261	expert_6	http://purl.obolibrary.org/obo/CHEBI_25212	chemical	produced by	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+38525261	expert_6	http://purl.obolibrary.org/obo/NCIT_C68492	dietary supplement	administered	https://uts.nlm.nih.gov/uts/umls/concept/C0237401	human
+38525261	expert_6	http://purl.obolibrary.org/obo/NCIT_C68492	dietary supplement	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+
+
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_25212	chemical	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C39737	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C0234985	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_47916	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+36978911	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1518478	dietary supplement	impact	https://uts.nlm.nih.gov/uts/umls/concept/C0450254	bacteria
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C70554	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C97161	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_47916	chemical	produced by	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_25212	chemical	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0042276	anatomical location
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C26835	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C0234985	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C70554	chemical	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+36978911	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1518478	dietary supplement	impact	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C26835	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C26835	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_47916	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C26835	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C4061321	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_47916	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C39737	DDF
+36978911	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+36978911	expert_5	http://purl.obolibrary.org/obo/CHEBI_47916	chemical	part of	http://purl.obolibrary.org/obo/CHEBI_228264	chemical
+36978911	expert_5	http://purl.obolibrary.org/obo/NCIT_C34423	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+
+
+31610228	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+31610228	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/D008571	human
+31610228	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C0233401	DDF
+31610228	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D020560	bacteria	change expression	https://uts.nlm.nih.gov/uts/umls/concept/C1366571	gene
+31610228	expert_5	http://purl.obolibrary.org/obo/NCIT_C20464	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+31610228	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1708430	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+31610228	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C176595	DDF
+31610228	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D020560	bacteria	change expression	https://uts.nlm.nih.gov/uts/umls/concept/C1448177	gene
+31610228	expert_5	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+31610228	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31610228	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+31610228	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0233401	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+31610228	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlcoholOverconsumption	DDF
+
+
+34560239	expert_5	http://purl.obolibrary.org/obo/CHEBI_233275	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+34560239	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/NCIT_C12450	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/NCIT_C12382	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_2005359	bacteria	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0009932	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_2005359	bacteria	located in	http://purl.obolibrary.org/obo/NCIT_C28143	animal
+34560239	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_2005359	bacteria	change expression	http://purl.obolibrary.org/obo/NCIT_C127894	gene
+34560239	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_2005359	bacteria	interact	http://purl.obolibrary.org/obo/CHEBI_30768	chemical
+34560239	expert_5	http://purl.obolibrary.org/obo/CHEBI_17963	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+
+
+30900006	expert_2	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+30900006	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+30900006	expert_2	http://purl.obolibrary.org/obo/NCIT_C258	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+30900006	expert_2	http://purl.obolibrary.org/obo/NCIT_C258	drug	change expression	https://uts.nlm.nih.gov/uts/umls/concept/C0017362	gene
+
+
+30309367	expert_5	http://purl.obolibrary.org/obo/OMIT_0026689	dietary supplement	influence	http://purl.obolibrary.org/obo/OMIT_0027553	DDF
+30309367	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	influence	http://purl.obolibrary.org/obo/OMIT_0027553	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C21075	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26682	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OMIT_0027553	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C33969	anatomical location
+30309367	expert_5	http://purl.obolibrary.org/obo/OMIT_0027553	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+30309367	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/OMIT_0027553	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OMIT_0027553	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26756	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C3114	DDF
+30309367	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0017178	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26682	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OMIT_0027553	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C78593	DDF
+30309367	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C0017178	DDF
+
+
+32041265	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0009932	human
+32041265	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C39737	DDF
+32041265	expert_7	http://purl.obolibrary.org/obo/CHEBI_15781	chemical	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+32041265	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+32041265	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	strike	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+32041265	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C165593	DDF
+32041265	expert_7	http://purl.obolibrary.org/obo/NCIT_C4876	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32041265	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+32041265	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32041265	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32041265	expert_7	http://purl.obolibrary.org/obo/CHEBI_26666	chemical	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients	human
+32041265	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients	human
+32041265	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients	human
+32041265	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C4876	DDF
+
+
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiotaPerturbation	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_28971	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_80201	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C258	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_28669	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_25212	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0042313	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C1929	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C12382	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0338656	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0338656	DDF	interact	http://purl.obolibrary.org/obo/NCIT_C1929	chemical
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_25212	chemical	influence	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_80201	chemical	influence	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C116921	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_7507	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/NCIT_C13194	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	http://purl.obolibrary.org/obo/CHEBI_43968	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+26923630	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C12382	anatomical location
+
+
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C86478	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C86478	dietary supplement	influence	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+25869281	expert_7	http://purl.obolibrary.org/obo/CHEBI_49318	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C86478	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C118457	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12444	anatomical location
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C12444	anatomical location	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/animal/TreatedGroup	animal
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://uts.nlm.nih.gov/uts/umls/concept/C5197854	biomedical technique
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C86478	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C12382	anatomical location
+25869281	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	influence	https://uts.nlm.nih.gov/uts/umls/concept/C0004936	DDF
+25869281	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+25869281	expert_7	http://purl.obolibrary.org/obo/OMIT_0002893	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C86478	dietary supplement	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+25869281	expert_7	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://uts.nlm.nih.gov/uts/umls/concept/C5392082	biomedical technique
+25869281	expert_7	http://purl.obolibrary.org/obo/CHEBI_28971	drug	change effect	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+
+
+33271426	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C2878	DDF
+33271426	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+33271426	expert_7	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+33271426	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+
+
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C3889047	DDF	strike	http://purl.obolibrary.org/obo/NCIT_C49240	anatomical location
+37403161	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C2350483	animal
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C258	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C258	drug	change effect	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF
+37403161	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1451726	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C4047383	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C258	drug	impact	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C40185	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37403161	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37403161	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_1578	bacteria	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C258	drug	interact	http://purl.obolibrary.org/obo/CHEBI_26666	chemical
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C25584	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37403161	expert_5	http://purl.obolibrary.org/obo/NCIT_C28401	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C3889047	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C2350483	animal
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	interact	http://purl.obolibrary.org/obo/CHEBI_82933	chemical
+37403161	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1490417	bacteria	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37403161	expert_5	http://purl.obolibrary.org/obo/OGMS_0000045	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C2350483	animal
+
+
+38613087	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+38613087	expert_5	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	is a	http://purl.obolibrary.org/obo/OGMS_0000045	DDF
+38613087	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredGutMicrobiota	DDF	affect	http://purl.obolibrary.org/obo/OGMS_0000045	DDF
+38613087	expert_5	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	strike	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+38613087	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C93187	DDF
+38613087	expert_5	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+38613087	expert_5	http://purl.obolibrary.org/obo/NCIT_C26696	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C93187	DDF
+38613087	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+38613087	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+38613087	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/species/Psychobiotics	dietary supplement	influence	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+
+
+33968794	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C5394401	DDF
+33968794	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+33968794	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C17741	DDF
+33968794	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C12438	DDF
+33968794	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	strike	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+33968794	expert_7	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+33968794	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+
+
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C20482	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	strike	https://uts.nlm.nih.gov/uts/umls/concept/C0699819	anatomical location
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C105971	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C104716	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C37930	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+32999308	expert_7	http://purl.obolibrary.org/obo/CHEBI_30795	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C104716	chemical	impact	https://uts.nlm.nih.gov/uts/umls/concept/C1490417	bacteria
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C104716	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C23444	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C37930	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C104716	chemical	impact	http://purl.obolibrary.org/obo/NCBITaxon_28138	bacteria
+32999308	expert_7	http://purl.obolibrary.org/obo/NCIT_C104716	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+
+
+34480631	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34480631	expert_7	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34480631	expert_7	http://purl.obolibrary.org/obo/CHEBI_230497	drug	impact	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome
+34480631	expert_7	http://purl.obolibrary.org/obo/CHEBI_230497	drug	interact	http://purl.obolibrary.org/obo/CHEBI_42111	chemical
+34480631	expert_7	http://purl.obolibrary.org/obo/CHEBI_230497	drug	change effect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/MicrobiomeDepletion	DDF
+34480631	expert_7	http://purl.obolibrary.org/obo/CHEBI_230497	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34480631	expert_7	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34480631	expert_7	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/animal/TreatedGroup	animal
+34480631	expert_7	http://purl.obolibrary.org/obo/NCIT_C12444	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34480631	expert_7	http://purl.obolibrary.org/obo/CHEBI_230497	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+34480631	expert_7	http://purl.obolibrary.org/obo/NCIT_C154779	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+
+
+32438623	expert_7	http://purl.obolibrary.org/obo/NCIT_C413	food	administered	https://uts.nlm.nih.gov/uts/umls/concept/C0679646	human
+32438623	expert_7	http://purl.obolibrary.org/obo/NCIT_C188111	food	impact	http://purl.obolibrary.org/obo/NCBITaxon_1578	bacteria
+32438623	expert_7	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+32438623	expert_7	http://purl.obolibrary.org/obo/NCIT_C413	food	impact	http://purl.obolibrary.org/obo/NCBITaxon_1578	bacteria
+32438623	expert_7	http://purl.obolibrary.org/obo/NCIT_C26696	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0679646	human
+32438623	expert_7	http://purl.obolibrary.org/obo/NCIT_C188111	food	administered	https://uts.nlm.nih.gov/uts/umls/concept/C0679646	human
+32438623	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0679646	human	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+
+
+31662903	expert_7	http://purl.obolibrary.org/obo/NCIT_C3283	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31662903	expert_7	http://purl.obolibrary.org/obo/NCIT_C34858	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects	human
+31662903	expert_7	http://purl.obolibrary.org/obo/CHEBI_30772	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C113101	DDF
+31662903	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0260274	food	administered	https://www.ncbi.nlm.nih.gov/mesh/D000328	human
+31662903	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0043210	human
+31662903	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0260274	food	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+31662903	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://www.ncbi.nlm.nih.gov/mesh/D008571	human
+31662903	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/GaMapDysbiosisTest	biomedical technique
+31662903	expert_7	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects	human
+31662903	expert_7	http://purl.obolibrary.org/obo/CHEBI_30772	chemical	influence	https://uts.nlm.nih.gov/uts/umls/concept/C0242339	DDF
+31662903	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0260274	food	impact	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria
+
+
+30405455	expert_7	http://purl.obolibrary.org/obo/NCIT_C258	drug	administered	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+30405455	expert_7	http://purl.obolibrary.org/obo/OMIT_0005141	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+30405455	expert_7	https://uts.nlm.nih.gov/uts/umls/concept/C0004936	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+30405455	expert_7	http://purl.obolibrary.org/obo/NCIT_C84442	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+30405455	expert_7	http://purl.obolibrary.org/obo/CHEBI_75431	chemical	influence	http://purl.obolibrary.org/obo/OMIT_0005141	DDF
+30405455	expert_7	http://purl.obolibrary.org/obo/CHEBI_81571	chemical	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+30405455	expert_7	http://purl.obolibrary.org/obo/CHEBI_81571	chemical	influence	http://purl.obolibrary.org/obo/OMIT_0005141	DDF
+30405455	expert_7	http://purl.obolibrary.org/obo/CHEBI_75431	chemical	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+30405455	expert_7	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+
+
+34290352	expert_2	https://uts.nlm.nih.gov/uts/umls/concept/C0360105	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+34290352	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+34290352	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+34290352	expert_2	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+34290352	expert_2	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+34290352	expert_2	https://uts.nlm.nih.gov/uts/umls/concept/C0003289	drug	impact	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome	microbiome
+34290352	expert_2	http://purl.obolibrary.org/obo/CHEBI_36791	drug	administered	https://www.ncbi.nlm.nih.gov/mesh/D011153	human
+34290352	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0009932	human
+
+
+37676767	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/chemical/MicrobiomeBorneCurli	chemical	impact	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria
+37676767	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF
+37676767	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5979810	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/NCIT_C52709	chemical	influence	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/CHEBI_76969	chemical	influence	https://uts.nlm.nih.gov/uts/umls/concept/C0017178	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/CHEBI_76969	chemical	part of	http://purl.obolibrary.org/obo/CHEBI_36080	chemical
+37676767	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/chemical/MicrobiomeBorneCurli	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37676767	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0028544	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/NCIT_C52709	chemical	influence	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF
+37676767	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1850496	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37676767	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0871712	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+37676767	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0871712	DDF	change abundance	http://purl.obolibrary.org/obo/NCBITaxon_2	bacteria
+37676767	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0028544	DDF
+37676767	expert_5	http://purl.obolibrary.org/obo/CHEBI_76969	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+37676767	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlphaSynNeurotoxicity	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+
+
+25911232	expert_2	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0005457	DDF
+25911232	expert_2	http://purl.obolibrary.org/obo/NCIT_C2890	DDF	target	http://purl.obolibrary.org/obo/NCIT_C14182	animal
+25911232	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C3283	DDF
+25911232	expert_2	http://purl.obolibrary.org/obo/NCIT_C97161	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0005457	DDF
+25911232	expert_2	http://purl.obolibrary.org/obo/NCIT_C92200	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0005457	DDF
+
+
+33195226	expert_4	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+33195226	expert_4	https://www.ncbi.nlm.nih.gov/mesh/D000068016	bacteria	influence	http://purl.obolibrary.org/obo/NCIT_C3362	DDF
+33195226	expert_4	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	change abundance	http://purl.obolibrary.org/obo/NCBITaxon_174708	bacteria
+33195226	expert_4	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+33195226	expert_4	https://www.ncbi.nlm.nih.gov/mesh/D001439	bacteria	influence	http://purl.obolibrary.org/obo/NCIT_C3362	DDF
+33195226	expert_4	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C2893	DDF
+33195226	expert_4	http://purl.obolibrary.org/obo/NCIT_C3362	DDF	change abundance	http://purl.obolibrary.org/obo/NCBITaxon_128827	bacteria
+33195226	expert_4	https://www.ncbi.nlm.nih.gov/mesh/D004888	bacteria	influence	http://purl.obolibrary.org/obo/NCIT_C3362	DDF
+33195226	expert_4	https://uts.nlm.nih.gov/uts/umls/concept/C0262405	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C3362	DDF
+33195226	expert_4	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C3362	DDF
+
+
+28716445	expert_2	https://uts.nlm.nih.gov/uts/umls/concept/C0004936	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+28716445	expert_2	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+28716445	expert_2	https://uts.nlm.nih.gov/uts/umls/concept/C0525033	dietary supplement	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+28716445	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C0004936	DDF
+28716445	expert_2	http://purl.obolibrary.org/obo/NCIT_C34387	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+28716445	expert_2	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+
+
+32389857	expert_2	http://purl.obolibrary.org/obo/CHEBI_23888	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+32389857	expert_2	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF
+32389857	expert_2	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	change abundance	http://purl.obolibrary.org/obo/NCIT_C93019	microbiome
+32389857	expert_2	http://purl.obolibrary.org/obo/OMIT_0028544	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+32389857	expert_2	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF
+
+
+33777957	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+33777957	expert_2	http://purl.obolibrary.org/obo/NCIT_C26696	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+33777957	expert_2	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+33777957	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+33777957	expert_2	http://purl.obolibrary.org/obo/NCIT_C26696	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+33777957	expert_2	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+33777957	expert_2	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCBITaxon_9989	animal
+
+
+34205336	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26835	DDF
+34205336	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF
+34205336	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/OMIT_0028544	DDF
+34205336	expert_5	http://purl.obolibrary.org/obo/NCIT_C12623	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome
+34205336	expert_5	http://purl.obolibrary.org/obo/NCIT_C12623	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+34205336	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF
+34205336	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/OMIT_0028544	DDF
+34205336	expert_5	http://purl.obolibrary.org/obo/NCIT_C12623	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+34205336	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0028544	DDF
+
+
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+28556833	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C4318444	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+28556833	expert_5	http://purl.obolibrary.org/obo/CHEBI_35469	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C124639	DDF
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+28556833	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+28556833	expert_5	http://purl.obolibrary.org/obo/CHEBI_52998	chemical	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	influence	http://purl.obolibrary.org/obo/NCIT_C121275	DDF
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	interact	https://uts.nlm.nih.gov/uts/umls/concept/C4318444	chemical
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C20158	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+28556833	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	interact	http://purl.obolibrary.org/obo/CHEBI_3254	chemical
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	impact	http://purl.obolibrary.org/obo/NCBITaxon_119852	bacteria
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C121275	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+28556833	expert_5	http://purl.obolibrary.org/obo/CHEBI_52998	chemical	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0178784	anatomical location
+28556833	expert_5	http://purl.obolibrary.org/obo/CHEBI_3254	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C12439	anatomical location
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+28556833	expert_5	http://purl.obolibrary.org/obo/NCIT_C163951	chemical	interact	http://purl.obolibrary.org/obo/NCIT_C20158	chemical
+28556833	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0178784	anatomical location	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+
+
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C45524	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0522476	human
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1395088	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C1395088	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C62344	DDF	is a	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C62344	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients	human
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C94372	DDF
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C1395088	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/OHMI_0000020	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C4021734	DDF
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0522476	human
+35674870	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C26845	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients	human
+35674870	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/NCIT_C45524	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+35674870	expert_5	http://purl.obolibrary.org/obo/CHEBI_67079	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C26845	DDF
+
+
+37071196	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_1486939	bacteria	influence	http://purl.obolibrary.org/obo/OMIT_0002889	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C34927	DDF
+37071196	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D018720	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+37071196	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+37071196	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_1486939	bacteria	influence	http://purl.obolibrary.org/obo/NCIT_C34927	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_216851	bacteria	influence	http://purl.obolibrary.org/obo/NCIT_C34927	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/NCBITaxon_216851	bacteria	influence	http://purl.obolibrary.org/obo/OMIT_0002889	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/NCIT_C34927	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/D000293	human
+37071196	expert_5	http://purl.obolibrary.org/obo/NCIT_C34927	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0680063	human
+37071196	expert_5	http://purl.obolibrary.org/obo/NCIT_C34927	DDF	is a	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+37071196	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D018720	bacteria	influence	http://purl.obolibrary.org/obo/OMIT_0002889	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/OGMS_0000045	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C0680063	human
+37071196	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0680063	human
+37071196	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C0680063	human	used by	https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing	biomedical technique
+37071196	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D001439	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+37071196	expert_5	https://www.ncbi.nlm.nih.gov/mesh/D045857	bacteria	part of	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+37071196	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/OGMS_0000045	DDF
+37071196	expert_5	http://purl.obolibrary.org/obo/OGMS_0000045	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0002893	DDF
+
+
+37849234	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients	human
+37849234	expert_5	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredGutMicrobiota	DDF	change abundance	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+37849234	expert_5	http://purl.obolibrary.org/obo/OMIT_0002893	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C2866	DDF
+37849234	expert_5	http://purl.obolibrary.org/obo/CHEBI_86264	chemical	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+37849234	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients	human
+37849234	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	https://uts.nlm.nih.gov/uts/umls/concept/C0009932	human
+37849234	expert_5	http://purl.obolibrary.org/obo/NCIT_C37940	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/AlzheimerDiseasePatients	human
+37849234	expert_5	http://purl.obolibrary.org/obo/NCIT_C2866	DDF	is a	http://purl.obolibrary.org/obo/NCIT_C39737	DDF
+37849234	expert_5	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C2866	DDF
+
+
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C20151	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C1300203	human
+33963281	expert_6	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0013780	DDF
+33963281	expert_6	https://uts.nlm.nih.gov/uts/umls/concept/C0009241	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C0235161	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C20151	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OMIT_0013780	DDF	is a	https://uts.nlm.nih.gov/uts/umls/concept/C0235161	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OMIT_0013780	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OMIT_0013780	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+33963281	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C5394393	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C20151	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0013780	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C116921	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C1300203	human
+33963281	expert_6	http://purl.obolibrary.org/obo/OMIT_0013780	DDF	target	https://uts.nlm.nih.gov/uts/umls/concept/C1300203	human
+33963281	expert_6	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0013780	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/OMIT_0013780	DDF	affect	https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C103850	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+33963281	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	is linked to	http://purl.obolibrary.org/obo/NCIT_C116921	DDF
+33963281	expert_6	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C0009241	DDF
+33963281	expert_6	http://purl.obolibrary.org/obo/NCIT_C116921	DDF	affect	http://purl.obolibrary.org/obo/OMIT_0013780	DDF
+
+
+36804535	expert_3	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36804535	expert_3	https://uts.nlm.nih.gov/uts/umls/concept/C2674432	DDF	target	https://w3id.org/XXXX/ontology/gutbrain/resource/human/DepressedPatients	human
+36804535	expert_3	http://purl.obolibrary.org/obo/NCIT_C124639	DDF	affect	https://uts.nlm.nih.gov/uts/umls/concept/C2674432	DDF
+36804535	expert_3	https://uts.nlm.nih.gov/uts/umls/concept/C2674432	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+36804535	expert_3	http://purl.obolibrary.org/obo/NCIT_C45247	animal	used by	https://uts.nlm.nih.gov/uts/umls/concept/C4050347	biomedical technique
+36804535	expert_3	http://purl.obolibrary.org/obo/NCIT_C3673	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+36804535	expert_3	https://uts.nlm.nih.gov/uts/umls/concept/C5940914	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C3673	DDF
+36804535	expert_3	https://uts.nlm.nih.gov/uts/umls/concept/C5940914	drug	change effect	https://uts.nlm.nih.gov/uts/umls/concept/C2674432	DDF
+36804535	expert_3	https://uts.nlm.nih.gov/uts/umls/concept/C2674432	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+
+
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	https://uts.nlm.nih.gov/uts/umls/concept/C1840264	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome	located in	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34174901	expert_6	https://uts.nlm.nih.gov/uts/umls/concept/C4287543	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C161518	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/NCIT_C50750	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C50750	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	impact	http://purl.obolibrary.org/obo/OHMI_0000463	microbiome
+34174901	expert_6	http://purl.obolibrary.org/obo/OMIT_0028827	DDF	target	http://purl.obolibrary.org/obo/NCIT_C45247	animal
+34174901	expert_6	http://purl.obolibrary.org/obo/NCIT_C3137	DDF	affect	http://purl.obolibrary.org/obo/NCIT_C50750	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C26696	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C12438	DDF
+34174901	expert_6	http://purl.obolibrary.org/obo/CHEBI_50694	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+
+
+33327540	expert_5	http://purl.obolibrary.org/obo/CHEBI_22720	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C2878	DDF
+33327540	expert_5	http://purl.obolibrary.org/obo/CHEBI_35469	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C2878	DDF
+33327540	expert_5	http://purl.obolibrary.org/obo/NCIT_C178186	food	influence	http://purl.obolibrary.org/obo/NCIT_C2878	DDF
+33327540	expert_5	http://purl.obolibrary.org/obo/NCIT_C2878	DDF	target	https://www.ncbi.nlm.nih.gov/mesh/68010361	human
+33327540	expert_5	https://uts.nlm.nih.gov/uts/umls/concept/C4725914	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C2878	DDF
+
+
+25940667	expert_4	https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/DormantBloodMicrobiome	microbiome	is linked to	https://uts.nlm.nih.gov/uts/umls/concept/C4505065	DDF
+25940667	expert_4	https://uts.nlm.nih.gov/uts/umls/concept/C0042210	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+25940667	expert_4	http://purl.obolibrary.org/obo/NCIT_C258	drug	change effect	http://purl.obolibrary.org/obo/NCIT_C3137	DDF
+
+

@@ -1,0 +1,2834 @@
+{
+    "30099552": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_35471",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3362",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0234985",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C94316",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C89338",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2866",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C39737",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25212",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0699819",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000003",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C92200",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "37124355": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C84442",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_853",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3362",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_1392389",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/D045857",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C84442",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_35833",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/D045857",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1519305",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_102106",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C2959924",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3362",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            }
+        ]
+    },
+    "29870894": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C53526",
+                "subject_label": "DDF",
+                "predicate": "strike",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000068016",
+                "subject_label": "bacteria",
+                "predicate": "located in",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C78576",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0010701",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_15354",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C53526",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3362",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C63859",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            }
+        ]
+    },
+    "38222911": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25212",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4910",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3138",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_26666",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0699819",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4910",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26835",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25212",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26835",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25212",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3138",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "34588398": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_239935",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C93019",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1254351",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/D001439",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C93019",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_26607",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000068536",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C93019",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_26666",
+                "subject_label": "chemical",
+                "predicate": "produced by",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0009750",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_26607",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C93019",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0009750",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0746556",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0009750",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65191",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "38432179": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_27306",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_24151",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C2878",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_28044",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C92200",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "28027925": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C128561",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C78444",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0231353",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C84442",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0026689",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C113101",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C128561",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0026689",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C17870",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C78444",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0178665",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0020663",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26797",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4285807",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0026689",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C78444",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C84442",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "29315562": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C12453",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1412299",
+                "subject_label": "DDF",
+                "predicate": "strike",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12453",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0413070",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C12453",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/CHEBI_34905",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C5979810",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4061321",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "35786740": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0005457",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0005457",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0699819",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4505065",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            }
+        ]
+    },
+    "31749671": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_18723",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25944",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C105971",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C12382",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/ParkinsonDiseasePatients",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1708430",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12382",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C34660",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "28767318": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4042925",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4042925",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0004936",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "33742731": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1708430",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C60544",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredIntestinalMicrobiome",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_3254",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C60544",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C20145",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C60544",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0028418",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C5394393",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C77202",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C60544",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C2985440",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C60544",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C3889047",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "28899766": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C17870",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16233",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "36271691": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_75769",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_75769",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "object_label": "microbiome"
+            }
+        ]
+    },
+    "35153869": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeuropsychiatricDisorders",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C63743",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4042925",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3362",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0151317",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C63743",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4042925",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34918",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C63743",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4042925",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C63743",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1708430",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "33935741": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "subject_label": "animal",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/MMO_0000574",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "subject_label": "animal",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/StressModel",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_16865",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_16865",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/CHEBI_35471",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "subject_label": "animal",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/SucrosePreferenceTest",
+                "object_label": "biomedical technique"
+            }
+        ]
+    },
+    "38463411": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_7735",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3235",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0028544",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0746556",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65191",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65190",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C62754",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_7735",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C62754",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65191",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C62754",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65191",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0746556",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_239935",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65190",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3235",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_239935",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C62754",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C84442",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0011847",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_65191",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/AlteredGutMicrobiota",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "36801431": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_27027",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C29239",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C598",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0002893",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_24636",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0009350",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0518656",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C158814",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0518656",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3036",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4304779",
+                "object_label": "human"
+            }
+        ]
+    },
+    "37663891": {
+        "concept_level_relations": []
+    },
+    "33087994": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_1678",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000068536",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_31977",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_84107",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D008973",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1300203",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_186801",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0005457",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_186804",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D001439",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_815",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2013654",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_171552",
+                "object_label": "bacteria"
+            }
+        ]
+    },
+    "32399169": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C258",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "38078745": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C258",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_7507",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "DDF",
+                "predicate": "change abundance",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_3395",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C258",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "drug",
+                "predicate": "change effect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0023570",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0751295",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0023570",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C258",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0086582",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "34789332": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4021734",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C75467",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C82342",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C34373",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C75467",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C25486",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34373",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C34373",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2866",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C16492",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4021734",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "30747427": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116921",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C97161",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0002701",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C97161",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C21055",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0002701",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C21055",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C97161",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0233514",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C97161",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/OGMS_0000045",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116921",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0002701",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "33181474": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C114185",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C5828281",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009932",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C114185",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C116337",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C114185",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/16sRrnaSequencing",
+                "object_label": "biomedical technique"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "subject_label": "human",
+                "predicate": "used by",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C114185",
+                "object_label": "biomedical technique"
+            }
+        ]
+    },
+    "33066107": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0680063",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "subject_label": "DDF",
+                "predicate": "is a",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3101",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C120380",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C75463",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000293",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_1678",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3283",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "37714308": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C84909",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C4022755",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C84909",
+                "object_label": "human"
+            }
+        ]
+    },
+    "37305758": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C3889047",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C162870",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/microbiome/IntestinalMicrobiome",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C162870",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C93019",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "DDF",
+                "predicate": "interact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C21217",
+                "object_label": "chemical"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C5394393",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0237401",
+                "object_label": "human"
+            }
+        ]
+    },
+    "31158941": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "subject_label": "DDF",
+                "predicate": "is a",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0524851",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0021831",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C18189",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/68010361",
+                "object_label": "human"
+            }
+        ]
+    },
+    "34485176": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0424594",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C14182",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C37962",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_561",
+                "subject_label": "bacteria",
+                "predicate": "interact",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1334122",
+                "object_label": "chemical"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C20328",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0424594",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0424594",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            }
+        ]
+    },
+    "28901279": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/Dysregulation",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "subject_label": "DDF",
+                "predicate": "strike",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12438",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "subject_label": "DDF",
+                "predicate": "interact",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C687",
+                "object_label": "chemical"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25681",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0001792",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0012155",
+                "subject_label": "food",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_25681",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0041696",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "35994167": {
+        "concept_level_relations": []
+    },
+    "35399136": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0220918",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2013654",
+                "subject_label": "bacteria",
+                "predicate": "part of",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C28143",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0220918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1850496",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1850496",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C28143",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "32495743": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0679646",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C124639",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D000328",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0338908",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C4876",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C92622",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0027361",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_2",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "31736803": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C120352",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/human/HumanSubjects",
+                "object_label": "human"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C34424",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C61917",
+                "subject_label": "drug",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C12439",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "is linked to",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0004936",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "37400661": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_30772",
+                "subject_label": "chemical",
+                "predicate": "located in",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0699819",
+                "object_label": "anatomical location"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "change abundance",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0005141",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_30772",
+                "subject_label": "chemical",
+                "predicate": "impact",
+                "object_uri": "https://www.ncbi.nlm.nih.gov/mesh/D001439",
+                "object_label": "bacteria"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "37432210": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1882457",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C3537684",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C103850",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/Photobiomodulation",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009241",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/dietarysupplement/DateSeedPowder",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_6121",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "object_label": "microbiome"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/Photobiomodulation",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C103850",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C103850",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C3537684",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/Photobiomodulation",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OHMI_0000463",
+                "subject_label": "microbiome",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/dietarysupplement/DateSeedPowder",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C103850",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_6121",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/biomedicaltechnique/Photobiomodulation",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/dietarysupplement/DateSeedPowder",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C3537684",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0009241",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/OMIT_0002893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1882457",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26696",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35650",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C103850",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C35041",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/OMIT_0028544",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            }
+        ]
+    },
+    "36009361": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_33958",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCBITaxon_33958",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3138",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C76276",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3138",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "impact",
+                "object_uri": "http://purl.obolibrary.org/obo/OHMI_0000020",
+                "object_label": "microbiome"
+            }
+        ]
+    },
+    "26370263": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0525033",
+                "subject_label": "dietary supplement",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2893",
+                "object_label": "DDF"
+            }
+        ]
+    },
+    "31519175": {
+        "concept_level_relations": [
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26922",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C34373",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C78444",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_9989",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2866",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C128320",
+                "subject_label": "DDF",
+                "predicate": "affect",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2866",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C78444",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1850496",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C64382",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "bacteria",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C26845",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C64382",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_9989",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2851",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C12453",
+                "subject_label": "anatomical location",
+                "predicate": "located in",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C45247",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C143827",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2866",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C2890",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/CHEBI_63248",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1850496",
+                "subject_label": "DDF",
+                "predicate": "target",
+                "object_uri": "http://purl.obolibrary.org/obo/NCBITaxon_9989",
+                "object_label": "animal"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://w3id.org/XXXX/ontology/gutbrain/resource/diseasedisorderorfinding/NeurodegenerativeDiseases",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C0497192",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "https://uts.nlm.nih.gov/uts/umls/concept/C1395088",
+                "object_label": "DDF"
+            },
+            {
+                "subject_uri": "http://purl.obolibrary.org/obo/NCIT_C50918",
+                "subject_label": "chemical",
+                "predicate": "influence",
+                "object_uri": "http://purl.obolibrary.org/obo/NCIT_C3137",
+                "object_label": "DDF"
+            }
+        ]
+    }
+}

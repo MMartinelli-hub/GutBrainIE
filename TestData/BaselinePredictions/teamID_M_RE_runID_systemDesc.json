@@ -1,0 +1,2834 @@
+{
+  "30099552": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "psychotropic medications",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "microbiome",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neurological and psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "schizophrenia",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "age-associated cognitive decline",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neuropsychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "psychological processes",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "autism spectrum disorder",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neurodevelopmental disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Alzheimer's and Parkinson's diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "human gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neurodegenerative disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "metabolites",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "mood and anxiety disorders",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37124355": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "metabolic syndrome",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Faecalibacterium prausnitzii",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "SCZ",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Sellimonas intestinalis",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "SCZ gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "healthy control subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Ruminococcus lactaris",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "metabolic syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Bilophila wadsworthia",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Ruminococcus bicirculans",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "patients",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "Shotgun sequencing",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "age- and sex-matched control groups",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Collinsella aerofaciens",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Gut Microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "Patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Flavonifractor plautii",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "SCZ gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Schizophrenia",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "patients",
+        "object_label": "human"
+      }
+    ]
+  },
+  "29870894": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "ultra-high risk (UHR) subjects",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "Magnetic Resonance Spectroscopy (MRS) scans",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "Gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_text_span": "magnetic resonance spectroscopy study",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "subjects",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "magnetic resonance spectroscopy study",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "membrane dysfunction",
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_text_span": "brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "HC",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "Magnetic Resonance Spectroscopy (MRS) scans",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "Clostridiales",
+        "subject_label": "bacteria",
+        "predicate": "located in",
+        "object_text_span": "UHR subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "psychosis",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "high risk (HR) subjects",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "Magnetic Resonance Spectroscopy (MRS) scans",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "health controls",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "Magnetic Resonance Spectroscopy (MRS) scans",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "choline",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "membrane dysfunction",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "schizophrenia",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "UHR subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "UHR subjects",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "imaging studies",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "Gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "subjects",
+        "object_label": "human"
+      }
+    ]
+  },
+  "38222911": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "postbiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "colon cancer",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "inflammatory bowel diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "short chain fatty acids",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "human gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "colon cancer",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neurological disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "postbiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "neurological disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "postbiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "inflammatory bowel diseases",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34588398": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Akkermansia muciniphila",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "intestinal flora",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "antidiabetic agent",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "AIMD",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Bacteroidetes",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "intestinal flora",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "SGAs",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "major psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Firmicutes",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "intestinal flora",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Short-chain fatty acids",
+        "subject_label": "chemical",
+        "predicate": "produced by",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "metformin",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "AIMD",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "SGAs",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "intestinal flora",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Metformin",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "antipsychotic-induced metabolic dysfunction",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "metformin",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbial communities",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "second-generation antipsychotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "major psychiatric disorders",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38432179": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "vitamin D<sub>3</sub>",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "anxiety-related behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "fructooligosaccharides",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "anxiety-related behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "anxiety",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "adult mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "depression",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "adult mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "anxiety-related behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "female mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "depression",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Depression",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "US adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "neuropsychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "adult mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "anxiety disorders",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "US adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "FOS",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "mood disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "anxiety",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Male mice",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "28027925": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "oligofructose",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "impaired spatial memory",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "excessive food intake",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "MetS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "prebiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "increased anxiety-like behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "increased anxiety-like behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "insulin resistance",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "oligofructose",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "increased anxiety-like behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "prebiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "metabolic and behavioral alterations",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "impaired spatial memory",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "glucose tolerance",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "hypothalamus",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "oligofructose-treated db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "glycemic dysregulations",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "db/db mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "neuropsychiatric symptoms",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "prebiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "impaired spatial memory",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "metabolic syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "inflammation",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "29315562": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "substantia nigra",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "WT mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "microglial staining",
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_text_span": "substantia nigra",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "paraquat toxicity",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "WT mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "substantia nigra",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "paraquat-treated mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "WT mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "motor dysfunction",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "motor function",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "WT mice",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "35786740": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "non-communicable chronic diseases",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "adults",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31749671": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "SNCA-TG mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "nicotine",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "PD onset",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "pesticides",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "PD onset",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "colon fecal inflammatory calprotectin protein",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "WT",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "colon",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "control and SNCA-TG mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "Parkinson's disease (PD) patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "pro-inflammatory cytokines",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "colon",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "PD onset",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "head injury",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "28767318": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Gut Microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Anxiety- and Trauma-Related Disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "brain disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "anxiety- and trauma-related disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "mental illness",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33742731": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "IL-1\u03b2",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "rat brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "intestinal mucosa disruption",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "inflammasomes",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "rat brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "depressive-like behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "caspase-1",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "rat brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "gut microbiota imbalance",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "stress-induced depressive-like behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "neuroinflammation",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "NLRP3",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "rat brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "ASC",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "rat brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "intestinal tract inflammation",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rats",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "28899766": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "metabolic abnormalities",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "elderly",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "nutrition",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "low grade inflammation",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36271691": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "B vitamins",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "commensal bacteria",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "B vitamins",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "human gut microbiome",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "35153869": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "periodontal pathogens",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "neuropsychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Periodontitis",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "chronic systemic inflammatory diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "oral microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "periodontal diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "oral microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Oral Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Trauma- and Stress-Related Disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "periodontal pathogens",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "schizophrenia",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "chronic, multi-bacterial infection",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "low-grade systemic inflammation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Oral Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "oral microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "debilitating psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "periodontal diseases",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "oral microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "anxiety, mood and trauma- and stress-related phenotypes",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "periodontitis",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "low-grade systemic inflammation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "periodontal pathogens",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "dysregulation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "periodontal pathogens",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "depression",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Periodontal diseases",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "low-grade systemic inflammation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "oral microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "mood and trauma- and stress-related disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Oral Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Periodontal Diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "pro-inflammatory cytokines",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "low-grade systemic inflammation",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33935741": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "chronic unpredictable mild stress (CUMS) mice",
+        "subject_label": "animal",
+        "predicate": "used by",
+        "object_text_span": "forced swim test",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "CUMS mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "chronic unpredictable mild stress (CUMS) mice",
+        "subject_label": "animal",
+        "predicate": "used by",
+        "object_text_span": "tail suspension test",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "gamma aminobutyric acid",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "Gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "GABA",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Psychotropic Effects",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "chronic unpredictable mild stress (CUMS) mice",
+        "subject_label": "animal",
+        "predicate": "used by",
+        "object_text_span": "sucrose preference test",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "38463411": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "olanzapine",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "metabolic disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "dysbiosis",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Multiple strain probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "antipsychotic-induced metabolic impairment",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Second-generation antipsychotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "major psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "first-generation antipsychotic drugs",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "weight gain",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "olanzapine",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "weight gain",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Second-generation antipsychotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "weight gain induction",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Second-generation antipsychotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "metabolic impairment",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Multiple strain probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Akkermansia muciniphila",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "first-generation antipsychotic drugs",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "metabolic disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Akkermansia muciniphila",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "Olanzapine-Induced Weight Gain",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "metabolic syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "obesity",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "diabetes",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "chronic inflammatory diseases",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Second-generation antipsychotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "gut microbiota modification",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "36801431": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "micronutrients",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "magnesium",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "iron",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "PPIs",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "proton pump inhibitors",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "magnesium deficiency",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "chronic fatigue",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "iron deficiency",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "chronic fatigue",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "fatigue",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "kidney transplant recipients",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37663891": {
+    "mention_level_relations": []
+  },
+  "33087994": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Bifidobacteriaceae",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "obese patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "obese humans",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Firmicutes",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Veillonellaceae",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Coriobacteriaceae",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Negativicutes",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "obesity",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "humans",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Clostridia",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "obesity-related health complications",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Peptostreptococcaceae",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "obesity",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "obesity",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Bacteroidetes",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Bacteroidaceae",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Actinobacteria",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "probiotic treatment",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Prevotellaceae",
+        "object_label": "bacteria"
+      }
+    ]
+  },
+  "32399169": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Antibiotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "Parkinson's Disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "38078745": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "antibiotics",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "non-motor symptoms",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Parkinsonian non-motor symptoms",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "male transgenic mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "neomycin",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "PD",
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "carbidopa",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "used by",
+        "object_text_span": "16S sequencing",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "antibiotics",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Parkinson's disease medications",
+        "subject_label": "drug",
+        "predicate": "change effect",
+        "object_text_span": "Parkinsonian non-motor symptoms",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "non-motor symptoms",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "motor symptoms",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "PD medications",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "loss of",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "L-DOPA",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "antibiotic treatment",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "non-motor symptoms",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "males",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "PD",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "34789332": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "mitochondrial dysfunction",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Charcot-Marie-Tooth disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Huntington's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "ALS",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Charcot-Marie-Tooth disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegenerative conditions",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "dysregulations of the cytoskeletal network and mitochondrial homeostasis and localization",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "neurodegeneration",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Amyotrophic lateral sclerosis",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "selective, early degeneration of",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "ALS",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "selective, early degeneration of",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Alzheimer's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "cytoskeletal proteins",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "mitochondrial dysfunction",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "30747427": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Cognitive inabilities",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "autism",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "restricted social interaction and communication",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "autism",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "impaired communication",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "restricted social interaction and communication",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "impaired communication",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "autism",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "repetitive behavior pattern",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "autism",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Gut Microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Autism Spectrum Disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Cognitive inabilities",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "restricted social interaction and communication",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "33181474": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "healthy groups",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "16S rRNA sequencing",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "OSAS children",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "polysomnography",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "OSAS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "obstructive sleep apnoea syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "OSAS",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Gut microbiota composition",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "obstructive sleep apnoea syndrome",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Gut microbiota composition",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "OSAS children",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "16S rRNA sequencing",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "intestinal barrier",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "healthy groups",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "nocturnal pulsossimetry",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "Obstructive Sleep Apnoea syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "OSAS children",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "nocturnal pulsossimetry",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "children",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "16S rRNA sequencing",
+        "object_label": "biomedical technique"
+      },
+      {
+        "subject_text_span": "children",
+        "subject_label": "human",
+        "predicate": "used by",
+        "object_text_span": "nocturnal pulsossimetry",
+        "object_label": "biomedical technique"
+      }
+    ]
+  },
+  "33066107": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "obesity",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Prader-Willi syndrome",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Prader-Willi Syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "PWS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "children",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "PWS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Prader-Willi syndrome",
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_text_span": "genetic disorder",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "simple obesity",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Prader-Willi Syndrome",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Adolescents",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "<i>Bifidobacterium animalis</i> subsp. <i>lactis</i> strain BPL1",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "central adiposity",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37714308": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "MSA",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "GI symptoms",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "GI dysfunction",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "MSA patients",
+        "object_label": "human"
+      }
+    ]
+  },
+  "37305758": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "intestinal microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "intestinal inflammation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "neurodegeneration",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "susceptible individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gastrointestinal dysfunction",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "susceptible individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "intestinal microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "gastrointestinal dysfunction",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "intestinal microbiome dysregulation",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Parkinson's disease",
+        "subject_label": "DDF",
+        "predicate": "interact",
+        "object_text_span": "\u03b1-synuclein",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "neuroinflammation",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "susceptible individuals",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "brain",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "susceptible individuals",
+        "object_label": "human"
+      }
+    ]
+  },
+  "31158941": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "PD",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Parkinson's disease",
+        "subject_label": "DDF",
+        "predicate": "is a",
+        "object_text_span": "neurodegenerative disorder",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Gut Microbiome",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Intestinal Pathology",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gastrointestinal pathology",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "patients",
+        "object_label": "human"
+      }
+    ]
+  },
+  "34485176": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Frailty",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Older Adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "fecal microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "healthy and frail older adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Fecal Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "Older Adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "groups",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "zonulin",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "Older adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Escherichia",
+        "subject_label": "bacteria",
+        "predicate": "interact",
+        "object_text_span": "IL-6",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "HGMB1",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "Older adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "frailty",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Older adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "frailty",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "older adults",
+        "object_label": "human"
+      }
+    ]
+  },
+  "28901279": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "depressive illness",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "elderly",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "depression",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "dysregulation of inflammatory pathways",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Major depression",
+        "subject_label": "DDF",
+        "predicate": "strike",
+        "object_text_span": "central nervous",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "Depressive Illness",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Elderly",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "depression",
+        "subject_label": "DDF",
+        "predicate": "interact",
+        "object_text_span": "neurotransmitters",
+        "object_label": "chemical"
+      },
+      {
+        "subject_text_span": "Omega-3 Fatty Acids",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Depressive Illness",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "depression",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "elderly",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "diet",
+        "subject_label": "food",
+        "predicate": "influence",
+        "object_text_span": "depressive illness",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "omega-3 fatty acids",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "depressive illness",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "35994167": {
+    "mention_level_relations": []
+  },
+  "35399136": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "succinate",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "gut microbiome",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "succinate-producing Alleoprevotella",
+        "subject_label": "bacteria",
+        "predicate": "part of",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "MPTP-treated mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "succinate",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "dopaminergic neuronal loss",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "dopaminergic neuronal loss",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "MPTP-treated mice",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "32495743": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "anxiety",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Participants",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "gut bacteria",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "depression",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "depressive or anxiety symptoms",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Adults",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "healthy gut bacteria",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "depression/anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "human gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "anxiety symptoms",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "gut bacteria",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "depressive and anxiety symptoms",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Major Depression and/or Generalized Anxiety Disorder",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "People With",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "healthy bacteria",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "anxiety symptoms",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31736803": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "BD",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "subjects",
+        "object_label": "human"
+      },
+      {
+        "subject_text_span": "Gut Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "Bipolar Depression",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "quetiapine",
+        "subject_label": "drug",
+        "predicate": "impact",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "Gut Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "Brain",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "gut microbiota",
+        "subject_label": "microbiome",
+        "predicate": "is linked to",
+        "object_text_span": "mental disorders",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "37400661": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "located in",
+        "object_text_span": "gut",
+        "object_label": "anatomical location"
+      },
+      {
+        "subject_text_span": "CSDS",
+        "subject_label": "DDF",
+        "predicate": "change abundance",
+        "object_text_span": "gut microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "depression-like behaviors",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "CSDS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "butyric acid",
+        "subject_label": "chemical",
+        "predicate": "impact",
+        "object_text_span": "Bacteroidetes",
+        "object_label": "bacteria"
+      },
+      {
+        "subject_text_span": "chronic social defeat stress (CSDS)-induced anhedonia-like phenotype",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "37432210": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Inulin Preventive Supplementation",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "Anxious Behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "chicory root inulin",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognition",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "TPB",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognitive disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "topinambur powder",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "depressive behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Topinambur",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "Microbiota",
+        "object_label": "microbiome"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "stress",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "TPB",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognition",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "chronic unpredictable mild stress",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "cognition",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "fecal microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "CUMS induced mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "chronic unpredictable stress",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "chicory root inulin",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "depressive behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "TPB",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Microbiota",
+        "subject_label": "microbiome",
+        "predicate": "located in",
+        "object_text_span": "Mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "anxiety",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "depressive behavior",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "topinambur powder",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognition",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "chronic unpredictable stress",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "Topinambur",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "Anxious Behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "TPB",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "depressive behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "anxiety",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "CUMS induced mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "topinambur powder",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "anxiety",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "stress",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "CUMS induced mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "chicory root inulin",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "depressive behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognitive disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "stress",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "mental health problems",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Inulin Preventive Supplementation",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "Anxious Behavior",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "CUMS",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "INU",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "cognition",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Chronic Unpredictable Mild Stress",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "Mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "dysbiosis",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      }
+    ]
+  },
+  "36009361": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "Lactobacillaceae",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Lactobacillaceae",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "Irritable Bowel Disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Clostridium difficile",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "Irritable Bowel Disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "impact",
+        "object_text_span": "gut microbiome",
+        "object_label": "microbiome"
+      }
+    ]
+  },
+  "26370263": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "probiotics",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "psychiatric disorders",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "probiotic interventions",
+        "subject_label": "dietary supplement",
+        "predicate": "influence",
+        "object_text_span": "psychiatric disorders",
+        "object_label": "DDF"
+      }
+    ]
+  },
+  "31519175": {
+    "mention_level_relations": [
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "liver failure",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "amyotrophic lateral sclerosis",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "memory deficits",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rodents",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Alzheimer's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "systemic infections",
+        "subject_label": "DDF",
+        "predicate": "affect",
+        "object_text_span": "Alzheimer's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "memory deficits",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "loss of brain synapses and neurons",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "microglial activation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin-producing bacterial species",
+        "subject_label": "bacteria",
+        "predicate": "influence",
+        "object_text_span": "Parkinson's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "microglial activation",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rodents",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegeneration",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "AIDS",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "systemic inflammation",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "substantia nigra",
+        "subject_label": "anatomical location",
+        "predicate": "located in",
+        "object_text_span": "mice",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegenerative disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "sepsis",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "Alzheimer's disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "bacterial infection",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "oxidants",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegeneration",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "loss of brain synapses and neurons",
+        "subject_label": "DDF",
+        "predicate": "target",
+        "object_text_span": "rodents",
+        "object_label": "animal"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegenerative diseases",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "gum disease",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "Endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "neurodegeneration",
+        "object_label": "DDF"
+      },
+      {
+        "subject_text_span": "endotoxin",
+        "subject_label": "chemical",
+        "predicate": "influence",
+        "object_text_span": "gut inflammation",
+        "object_label": "DDF"
+      }
+    ]
+  }
+}
